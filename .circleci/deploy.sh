@@ -11,7 +11,7 @@ git config --global user.name $CIRCLE_USERNAME
 git clone -q --branch=master $REPOSITORY_URL deployment
 
 cd $DEPLOY_DIR
-rsync -arv --delete ../public/* .
+rsync -arv --delete ./public/* .
 
 git add -f .
 git commit -m "Deploy #$CIRCLE_BUILD_NUM: $(date "+%Y-%m-%d %H:%M:%S")" || true
