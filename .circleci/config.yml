@@ -26,5 +26,3 @@ jobs:
       - deploy:
           name: Deploy to GitHub Pages
           command: sh .circleci/deploy.sh
-          environment:
-            REPOSITORY_URL: https://github.com/PasscodeFR/PasscodeFR.github.io.git
