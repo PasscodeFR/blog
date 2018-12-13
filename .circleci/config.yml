@@ -1,0 +1,28 @@
+version: 2
+jobs:
+  build:
+    branches:
+      only:
+        - master
+    docker:
+      - image: cibuilds/hugo:latest
+    working_directory: ~/hugo
+    steps:
+      - run:
+          name: Update Enviroment
+          command: apk update && apk add git
+      - run:
+          name: Check Hugo Version
+          command: echo "$(hugo version)"
+      - checkout
+      - run:
+          name: Build Blog Pages
+          command: |
+            HUGO_ENV=production hugo -v
+            cp public/index.xml public/feed.xml
+      - add_ssh_keys:
+          fingerprints:
+            - '3e:c7:02:39:cf:c9:af:19:f2:52:d4:ad:b3:a0:cb:20'
+      - deploy:
+          name: Deploy to GitHub Pages
+          command: ./.circleci/deploy.sh
