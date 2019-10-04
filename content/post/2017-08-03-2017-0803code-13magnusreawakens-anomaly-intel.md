@@ -86,4 +86,4 @@ green换成blue
 
  [1]: https://plus.google.com/+ingress
  [2]: https://docs.google.com/document/d/16FZte6AWVhELC1c7aL5H1FnnL4cR4hjW_cw0lX7rCuI/edit?usp=sharing
- [3]: https://www.ingresscode.cn/2017/08/04/13magnusreawakens-anomaly-intel-ts-triptych%e8%a7%84%e5%88%99%e6%96%87%e6%a1%a3%e7%bf%bb%e8%af%91/
+ [3]: https://passcode.fr/2017/08/04/13magnusreawakens-anomaly-intel-ts-triptych%e8%a7%84%e5%88%99%e6%96%87%e6%a1%a3%e7%bf%bb%e8%af%91/
