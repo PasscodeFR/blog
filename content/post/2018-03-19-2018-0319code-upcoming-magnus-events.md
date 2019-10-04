@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-03-19T01:58:01+00:00
 url: /blog/2018/03/19/2018-0319code-upcoming-magnus-events/
-featured_image: https://image.ingresscode.cn/2018/03/0319LiminalContinuum.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/03/0319LiminalContinuum.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "81"
 categories:

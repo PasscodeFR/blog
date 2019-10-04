@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-22T02:11:06+00:00
 url: /blog/2017/10/22/2017-1022code-nl-prime-phase-i-expansion/
-featured_image: https://image.ingresscode.cn/2017/10/1022MovingPrime.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1022MovingPrime.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "102"
 categories:

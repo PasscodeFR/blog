@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-14T15:56:47+00:00
 url: /blog/2017/09/14/2017-0914code-truthseekers-in-dc/
-featured_image: https://image.ingresscode.cn/2017/09/0914Truthseekers.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/0914Truthseekers.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "32"
 categories:

@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/KodamaReconSF-1-700x220.jpg
 views:
   - "31"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/KodamaReconSF-1.jpg
+  - /static/2017/06/KodamaReconSF-1.jpg
 categories:
   - BLOGcode
   - 已解决
@@ -208,7 +208,7 @@ categories:
   Felicia Hajra-lee是个作家，<The Niantic Project:Ingress>是她作品之一
 </p>
 
-<img class="size-full wp-image-170 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/3-4.jpg" alt="" width="869" height="409" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/3-4.jpg 869w, https://www.ingresscode.cn/wp-content/uploads/2017/06/3-4-300x141.jpg 300w, https://www.ingresscode.cn/wp-content/uploads/2017/06/3-4-768x361.jpg 768w" sizes="(max-width: 869px) 100vw, 869px" />
+<img class="size-full wp-image-170 aligncenter" src="/static/2017/06/3-4.jpg" alt="" width="869" height="409" srcset="/static/2017/06/3-4.jpg 869w, /static/2017/06/3-4-300x141.jpg 300w, /static/2017/06/3-4-768x361.jpg 768w" sizes="(max-width: 869px) 100vw, 869px" />
 
 <p style="text-align: center;">
   关键词换成felicia

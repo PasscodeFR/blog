@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-11T03:28:51+00:00
 url: /blog/2017/10/11/jojo-ensconce/
-featured_image: https://image.ingresscode.cn/2017/10/ENSCONCE.jpg?x-oss-process=image/resize,m_fill,w_561,h_220
+featured_image: /static/2017/10/ENSCONCE.jpg?x-oss-process=image/resize,m_fill,w_561,h_220
 views:
   - "83"
 categories:

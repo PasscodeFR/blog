@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-02-04T09:37:58+00:00
 url: /blog/2018/02/04/2018-0204code-hearing-the-end/
-featured_image: https://image.ingresscode.cn/2018/02/0204End.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/02/0204End.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "81"
 categories:

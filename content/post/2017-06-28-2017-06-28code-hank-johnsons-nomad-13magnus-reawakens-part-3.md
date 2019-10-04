@@ -4,9 +4,9 @@ author: claire9
 type: post
 date: 2017-06-28T15:46:21+00:00
 url: /blog/2017/06/28/2017-06-28code-hank-johnsons-nomad-13magnus-reawakens-part-3/
-featured_image: https://image.ingresscode.cn/2017/06/nomad13mr-3-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/06/nomad13mr-3-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 cover:
-  - https://image.ingresscode.cn/2017/06/nomad13mr-3-470x260.jpg
+  - /static/2017/06/nomad13mr-3-470x260.jpg
 views:
   - "68"
 categories:
@@ -52,14 +52,14 @@ tca46iamnotdead499ux
 搜索得到的结果排位较高的三个结果：
 
 
-<img class="alignnone size-medium wp-image-342" src="https://image.ingresscode.cn/2017/06/屏幕快照-2017-06-28-下午11.04.34.png?x-oss-process=image/resize,m_fill,w_300,h_180" alt="" width="300" height="180" srcset="https://image.ingresscode.cn/2017/06/屏幕快照-2017-06-28-下午11.04.34.png 444w, https://image.ingresscode.cn/2017/06/屏幕快照-2017-06-28-下午11.04.34.png?x-oss-process=image/resize,m_fill,w_300,h_180 300w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-342" src="/static/2017/06/屏幕快照-2017-06-28-下午11.04.34.png?x-oss-process=image/resize,m_fill,w_300,h_180" alt="" width="300" height="180" srcset="/static/2017/06/屏幕快照-2017-06-28-下午11.04.34.png 444w, /static/2017/06/屏幕快照-2017-06-28-下午11.04.34.png?x-oss-process=image/resize,m_fill,w_300,h_180 300w" sizes="(max-width: 300px) 100vw, 300px" />
 搜索相关关键词都无效
 
 尝试搜索 i am not dead ingress，第一条结果就指向我们熟悉的<span style="color: #99cc00;">+Roland Jarvi<span style="color: #333300;"><span style="color: #99cc00;">s
-</span></span></span><img class="alignnone size-medium wp-image-343" style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;" src="https://image.ingresscode.cn/2017/06/屏幕快照-2017-06-28-下午11.11.36.png?x-oss-process=image/resize,m_fill,w_300,h_132" alt="" width="300" height="132" srcset="https://image.ingresscode.cn/2017/06/屏幕快照-2017-06-28-下午11.11.36.png 653w, https://image.ingresscode.cn/2017/06/屏幕快照-2017-06-28-下午11.11.36.png?x-oss-process=image/resize,m_fill,w_300,h_132 300w" sizes="(max-width: 300px) 100vw, 300px" />
+</span></span></span><img class="alignnone size-medium wp-image-343" style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;" src="/static/2017/06/屏幕快照-2017-06-28-下午11.11.36.png?x-oss-process=image/resize,m_fill,w_300,h_132" alt="" width="300" height="132" srcset="/static/2017/06/屏幕快照-2017-06-28-下午11.11.36.png 653w, /static/2017/06/屏幕快照-2017-06-28-下午11.11.36.png?x-oss-process=image/resize,m_fill,w_300,h_132 300w" sizes="(max-width: 300px) 100vw, 300px" />
 <span style="color: #99cc00;"><span style="color: #333300;">所以关键词是Jarvis？
 依然无效
-<img class="alignnone size-full wp-image-344" src="https://image.ingresscode.cn/2017/06/下载-1.jpeg" alt="" width="225" height="225" srcset="https://image.ingresscode.cn/2017/06/下载-1.jpeg 225w, https://image.ingresscode.cn/2017/06/下载-1.jpeg?x-oss-process=image/resize,m_fill,w_150,h_150 150w" sizes="(max-width: 225px) 100vw, 225px" />
+<img class="alignnone size-full wp-image-344" src="/static/2017/06/下载-1.jpeg" alt="" width="225" height="225" srcset="/static/2017/06/下载-1.jpeg 225w, /static/2017/06/下载-1.jpeg?x-oss-process=image/resize,m_fill,w_150,h_150 150w" sizes="(max-width: 225px) 100vw, 225px" />
 正确的关键词是Roland
 <span style="color: #99cc00;">tca46Roland499ux</span>
 

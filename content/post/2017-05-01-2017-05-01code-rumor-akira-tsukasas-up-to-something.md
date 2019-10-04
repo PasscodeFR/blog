@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/Challenge-700x220.jpg
 views:
   - "20"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/Challenge.jpg
+  - /static/2017/06/Challenge.jpg
 categories:
   - BLOGcode
   - 已解决
@@ -91,7 +91,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <img class="alignnone size-full wp-image-224" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/Mr._E.png" alt="" width="290" height="163" />
+  <img class="alignnone size-full wp-image-224" src="/static/2017/06/Mr._E.png" alt="" width="290" height="163" />
 </p>
 
 <p style="text-align: center;">
@@ -118,7 +118,7 @@ categories:
   分析字母出现频率
 </p>
 
-<img class="aligncenter wp-image-225 size-large" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/2-5-1024x482.png" alt="" width="1024" height="482" />
+<img class="aligncenter wp-image-225 size-large" src="/static/2017/06/2-5-1024x482.png" alt="" width="1024" height="482" />
 
 <p style="text-align: center;">
   b是可以当成分割的字符

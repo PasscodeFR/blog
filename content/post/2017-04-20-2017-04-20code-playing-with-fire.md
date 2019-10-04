@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/PlayingWithFire-700x220.jpg
 views:
   - "43"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/PlayingWithFire.jpg
+  - /static/2017/06/PlayingWithFire.jpg
 categories:
   - BLOGcode
   - 已解决

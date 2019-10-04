@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-14T02:00:21+00:00
 url: /blog/2017/11/14/2017-1114code-on-turing-tests-brain-extenders-and-ai-ethics/
-featured_image: https://image.ingresscode.cn/2017/11/1113Systems.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1113Systems.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "47"
 categories:

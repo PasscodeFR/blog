@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-10T02:51:15+00:00
 url: /blog/2017/10/10/2017-1010code-completely-overwhelmed/
-featured_image: https://image.ingresscode.cn/2017/10/1011overtake.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1011overtake.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "39"
 categories:

@@ -4,9 +4,9 @@ author: fukkix
 type: post
 date: 2017-07-15T15:27:34+00:00
 url: /blog/2017/07/15/2017-07-15code-vessels-for-possibility/
-featured_image: https://image.ingresscode.cn/2017/07/0714Vessels.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/0714Vessels.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 cover:
-  - https://image.ingresscode.cn/2017/07/0714Vessels.jpg
+  - /static/2017/07/0714Vessels.jpg
 views:
   - "45"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-28T02:39:17+00:00
 url: /blog/2017/09/28/jojo-macarism/
-featured_image: https://image.ingresscode.cn/2017/09/MACARISM.jpg?x-oss-process=image/resize,m_fill,w_569,h_220
+featured_image: /static/2017/09/MACARISM.jpg?x-oss-process=image/resize,m_fill,w_569,h_220
 views:
   - "55"
 categories:

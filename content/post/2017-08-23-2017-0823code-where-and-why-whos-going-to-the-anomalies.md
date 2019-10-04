@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-23T02:09:05+00:00
 url: /blog/2017/08/23/2017-0823code-where-and-why-whos-going-to-the-anomalies/
-featured_image: https://image.ingresscode.cn/2017/08/0823Destinations.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/08/0823Destinations.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "30"
 categories:

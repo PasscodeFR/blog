@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-02T14:03:34+00:00
 url: /blog/2017/09/02/2017-0902code-signals-and-dates/
-featured_image: https://image.ingresscode.cn/2017/09/0902Signals.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/0902Signals.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "41"
 categories:

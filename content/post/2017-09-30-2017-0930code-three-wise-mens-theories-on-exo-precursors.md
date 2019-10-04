@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-30T03:06:24+00:00
 url: /blog/2017/09/30/2017-0930code-three-wise-mens-theories-on-exo-precursors/
-featured_image: https://image.ingresscode.cn/2017/10/0930exo5.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/0930exo5.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "35"
 categories:

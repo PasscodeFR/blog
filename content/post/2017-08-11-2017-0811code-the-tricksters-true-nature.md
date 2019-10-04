@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-11T14:53:43+00:00
 url: /blog/2017/08/11/2017-0811code-the-tricksters-true-nature/
-featured_image: https://image.ingresscode.cn/2017/08/0811Brisbane.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/08/0811Brisbane.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "34"
 categories:

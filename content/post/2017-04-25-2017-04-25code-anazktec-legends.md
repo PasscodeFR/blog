@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/legends-700x220.png
 views:
   - "26"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/legends.png
+  - /static/2017/06/legends.png
 categories:
   - BLOGcode
   - 已解决
@@ -242,7 +242,7 @@ categories:
   把字母按字母表顺序从前到后排列，字母后的数字用ASCII转码
 </p>
 
-<img class="size-full wp-image-183 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/2-7.jpg" alt="" width="366" height="754" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/2-7.jpg 366w, https://www.ingresscode.cn/wp-content/uploads/2017/06/2-7-146x300.jpg 146w" sizes="(max-width: 366px) 100vw, 366px" />
+<img class="size-full wp-image-183 aligncenter" src="/static/2017/06/2-7.jpg" alt="" width="366" height="754" srcset="/static/2017/06/2-7.jpg 366w, /static/2017/06/2-7-146x300.jpg 146w" sizes="(max-width: 366px) 100vw, 366px" />
 
 <table class=" aligncenter" style="border-collapse: collapse; width: 96pt; box-sizing: border-box; border-spacing: 0px; max-width: 100%; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;" border="0" width="128" cellspacing="0" cellpadding="0">
   <colgroup> <col style="width: 48pt;" span="2" width="64" /> </colgroup> <tr style="height: 13.8pt; box-sizing: border-box;">

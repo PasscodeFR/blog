@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-10T17:17:09+00:00
 url: /blog/2017/09/11/2017-0911code-hank-johnson-confirms-ken-owens-death/
-featured_image: https://image.ingresscode.cn/2017/09/0911NewsofOwen-1024x576.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/0911NewsofOwen-1024x576.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "45"
 categories:

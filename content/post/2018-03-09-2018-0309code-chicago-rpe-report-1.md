@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-03-09T08:11:32+00:00
 url: /blog/2018/03/09/2018-0309code-chicago-rpe-report-1/
-featured_image: https://image.ingresscode.cn/2018/03/0309ChicagoReport1.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/03/0309ChicagoReport1.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "73"
 categories:

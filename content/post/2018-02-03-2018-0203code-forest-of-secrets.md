@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-02-03T08:19:54+00:00
 url: /blog/2018/02/03/2018-0203code-forest-of-secrets/
-featured_image: https://image.ingresscode.cn/2018/02/0203ForestSecrets.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/02/0203ForestSecrets.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "64"
 categories:

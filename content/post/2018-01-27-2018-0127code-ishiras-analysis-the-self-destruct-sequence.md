@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-27T02:56:40+00:00
 url: /blog/2018/01/27/2018-0127code-ishiras-analysis-the-self-destruct-sequence/
-featured_image: https://image.ingresscode.cn/2018/01/0127ishira-self-destruction-sequence.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/0127ishira-self-destruction-sequence.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "50"
 categories:

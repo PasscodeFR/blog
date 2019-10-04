@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/2-1-700x220.png
 views:
   - "16"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/2-1.png
+  - /static/2017/06/2-1.png
 categories:
   - BLOGcode
   - 已解决
@@ -216,7 +216,7 @@ categories:
   本篇是KODAMASMILES关于碎片战后续报道的第二部分视频，视频里同样有个码
 </p>
 
-<img class="size-full wp-image-141 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/QQ图片20170415195704.jpg" alt="" width="720" height="405" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/QQ图片20170415195704.jpg 720w, https://www.ingresscode.cn/wp-content/uploads/2017/06/QQ图片20170415195704-300x169.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="size-full wp-image-141 aligncenter" src="/static/2017/06/QQ图片20170415195704.jpg" alt="" width="720" height="405" srcset="/static/2017/06/QQ图片20170415195704.jpg 720w, /static/2017/06/QQ图片20170415195704-300x169.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 <p style="text-align: center;">
   <strong>8tk48ty6hpylg</strong>

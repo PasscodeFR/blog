@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-19T02:35:41+00:00
 url: /blog/2017/11/19/2017-1119code-akiras-nl-1331-inspection-visit-during-san-francisco-exo5/
-featured_image: https://image.ingresscode.cn/2017/11/1119SiteVisit.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1119SiteVisit.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "55"
 categories:

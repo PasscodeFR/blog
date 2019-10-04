@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-15T03:23:49+00:00
 url: /blog/2017/11/15/2017-1115code-the-true-source-of-power-and-mystery/
-featured_image: https://image.ingresscode.cn/2017/11/1115infinity.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1115infinity.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "57"
 categories:

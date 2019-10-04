@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/MagnusEmerging-700x220.jpg
 views:
   - "23"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/MagnusEmerging.jpg
+  - /static/2017/06/MagnusEmerging.jpg
 categories:
   - BLOGcode
   - 已解决

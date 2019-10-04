@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-14T17:20:56+00:00
 url: /blog/2017/08/15/2017-0815-jojos-g-hapax-legomenon/
-featured_image: https://image.ingresscode.cn/2017/08/HAPAX-LEGOMENON.png?x-oss-process=image/resize,m_fill,w_586,h_220
+featured_image: /static/2017/08/HAPAX-LEGOMENON.png?x-oss-process=image/resize,m_fill,w_586,h_220
 views:
   - "64"
 categories:

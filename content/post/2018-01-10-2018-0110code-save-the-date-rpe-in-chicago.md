@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-10T02:07:58+00:00
 url: /blog/2018/01/10/2018-0110code-save-the-date-rpe-in-chicago/
-featured_image: https://image.ingresscode.cn/2018/01/0111Chicago.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/0111Chicago.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "55"
 categories:

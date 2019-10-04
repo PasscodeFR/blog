@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/mindhacked-700x220.png
 views:
   - "23"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/mindhacked.png
+  - /static/2017/06/mindhacked.png
 categories:
   - BLOGcode
   - 已解决

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-21T03:05:44+00:00
 url: /blog/2017/11/21/2017-1121code-acolyte-to-join-enlightened-in-san-francisco/
-featured_image: https://image.ingresscode.cn/2017/11/1121ForVictory.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1121ForVictory.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "67"
 categories:

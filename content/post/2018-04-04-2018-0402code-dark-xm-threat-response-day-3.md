@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-04-03T16:00:55+00:00
 url: /blog/2018/04/04/2018-0402code-dark-xm-threat-response-day-3/
-featured_image: https://image.ingresscode.cn/2018/04/0402DayThree.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/04/0402DayThree.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "110"
 categories:

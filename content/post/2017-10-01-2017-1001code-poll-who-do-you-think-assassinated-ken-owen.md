@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-01T04:29:10+00:00
 url: /blog/2017/10/01/2017-1001code-poll-who-do-you-think-assassinated-ken-owen/
-featured_image: https://image.ingresscode.cn/2017/10/1001Owened.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1001Owened.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "31"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-04T03:23:05+00:00
 url: /blog/2017/11/04/2017-1104code-enl-claim-exo5-day-one-and-hank-johnson-has-some-crazy-news/
-featured_image: https://image.ingresscode.cn/2017/11/1104bignews.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1104bignews.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "47"
 categories:

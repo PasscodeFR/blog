@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/goldrush-700x220.png
 views:
   - "21"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/goldrush.png
+  - /static/2017/06/goldrush.png
 categories:
   - BLOGcode
   - 已解决

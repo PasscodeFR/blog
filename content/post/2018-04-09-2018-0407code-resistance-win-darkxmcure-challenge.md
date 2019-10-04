@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-04-08T16:00:34+00:00
 url: /blog/2018/04/09/2018-0407code-resistance-win-darkxmcure-challenge/
-featured_image: https://image.ingresscode.cn/2018/04/0407ResVictoryDarkXMCure.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/04/0407ResVictoryDarkXMCure.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "225"
 categories:

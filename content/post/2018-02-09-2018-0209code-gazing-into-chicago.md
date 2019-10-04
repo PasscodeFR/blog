@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-02-09T13:15:05+00:00
 url: /blog/2018/02/09/2018-0209code-gazing-into-chicago/
-featured_image: https://image.ingresscode.cn/2018/02/0209Chi.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/02/0209Chi.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "85"
 categories:

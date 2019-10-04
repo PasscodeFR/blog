@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-07T15:54:41+00:00
 url: /blog/2018/01/07/2018-0107code-the-redacted-report-part-7/
-featured_image: https://image.ingresscode.cn/2018/01/0107RedactedReport7-1.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/0107RedactedReport7-1.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "67"
 categories:
@@ -28,7 +28,7 @@ tags:
 把数字统一换成对应数量的其他符号例如“.”
 .o-o..o--o..o...o..o-o..o-o..o..o.o...o..o-o..o.......o.o....o--o.o-o....o-o..o--o.o-o...o-o...o-o....O..o...oo...o.|...|..\./..|...|....|.|./..|\..|.o...o.|.......|.|....|....|..\..o.....|.......|.|...o.|...|../.\.|...||...|.O--o....O....o-o...oo..OO...|.\.|.|...|.o...o...o.|....O-o..|...O.|..-o.O-o...oo...o--O..o-o..o---oo...oo...O.|....../.\..|...|....|.|.\..|..\|.o...o..\./.\./..|....|....|../..o...|.|.......|..../..|...|.|...|.\./..o-O\.o.....o...o..o-o..o-o..o..o.o...o..o-o....o...o...O---oo--o.o-o....o-o..o--o.o-o....o....o-o..o...o..o..
 一共550位，按5行来分组
-<a href="https://image.ingresscode.cn/2018/01/20180110100124.png"><img class="alignnone size-full wp-image-1360" src="https://image.ingresscode.cn/2018/01/20180110100124.png" alt="" width="884" height="78" srcset="https://image.ingresscode.cn/2018/01/20180110100124.png 884w, https://image.ingresscode.cn/2018/01/20180110100124.png?x-oss-process=image/resize,m_fill,w_300,h_26 300w, https://image.ingresscode.cn/2018/01/20180110100124.png?x-oss-process=image/resize,m_fill,w_768,h_68 768w" sizes="(max-width: 884px) 100vw, 884px" /></a>
+<a href="/static/2018/01/20180110100124.png"><img class="alignnone size-full wp-image-1360" src="/static/2018/01/20180110100124.png" alt="" width="884" height="78" srcset="/static/2018/01/20180110100124.png 884w, /static/2018/01/20180110100124.png?x-oss-process=image/resize,m_fill,w_300,h_26 300w, /static/2018/01/20180110100124.png?x-oss-process=image/resize,m_fill,w_768,h_68 768w" sizes="(max-width: 884px) 100vw, 884px" /></a>
 看出图上字符是
 <span style="color: #99cc00;"><strong>QPX83KNOWLEDGE398AV</strong></span></pre>
 

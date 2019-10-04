@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-02-07T04:19:36+00:00
 url: /blog/2018/02/07/2018-0207code-a-message-from-a-nomad/
-featured_image: https://image.ingresscode.cn/2018/02/0207NomadMessage.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/02/0207NomadMessage.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "108"
 categories:

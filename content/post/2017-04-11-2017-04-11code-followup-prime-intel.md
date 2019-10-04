@@ -6,7 +6,7 @@ date: 2017-04-11T04:38:15+00:00
 url: /blog/2017/04/11/2017-04-11code-followup-prime-intel/
 featured_image: /wp-content/uploads/2017/06/AkirasMotives-700x220.jpg
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/AkirasMotives.jpg
+  - /static/2017/06/AkirasMotives.jpg
 views:
   - "11"
 categories:

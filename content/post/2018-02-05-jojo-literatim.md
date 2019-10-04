@@ -4,7 +4,7 @@ author: ms300
 type: post
 date: 2018-02-05T06:30:17+00:00
 url: /blog/2018/02/05/jojo-literatim/
-featured_image: https://image.ingresscode.cn/2018/02/jojo-1.png?x-oss-process=image/resize,m_fill,w_530,h_220
+featured_image: /static/2018/02/jojo-1.png?x-oss-process=image/resize,m_fill,w_530,h_220
 views:
   - "119"
 categories:

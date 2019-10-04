@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-07-29T03:32:32+00:00
 url: /blog/2017/07/29/2017-0729code-illusion-and-reality/
-featured_image: https://image.ingresscode.cn/2017/07/0729Pareidolia.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/0729Pareidolia.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "30"
 categories:

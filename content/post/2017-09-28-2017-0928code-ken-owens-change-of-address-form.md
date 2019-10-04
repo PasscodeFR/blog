@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-28T05:37:18+00:00
 url: /blog/2017/09/28/2017-0928code-ken-owens-change-of-address-form/
-featured_image: https://image.ingresscode.cn/2017/09/0928ImmediateReply.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/0928ImmediateReply.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "57"
 categories:
@@ -48,4 +48,4 @@ ASCII
 
 * * *
 
-<pre><a href="https://image.ingresscode.cn/2017/09/0928ImmediateReply.jpg"><img class="alignnone size-large wp-image-1015" src="https://image.ingresscode.cn/2017/09/0928ImmediateReply.jpg?x-oss-process=image/resize,m_fill,w_1024,h_509" alt="" width="1024" height="509" srcset="https://image.ingresscode.cn/2017/09/0928ImmediateReply.jpg 1800w, https://image.ingresscode.cn/2017/09/0928ImmediateReply.jpg?x-oss-process=image/resize,m_fill,w_300,h_149 300w, https://image.ingresscode.cn/2017/09/0928ImmediateReply.jpg?x-oss-process=image/resize,m_fill,w_768,h_381 768w, https://image.ingresscode.cn/2017/09/0928ImmediateReply.jpg?x-oss-process=image/resize,m_fill,w_1024,h_509 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></pre>
+<pre><a href="/static/2017/09/0928ImmediateReply.jpg"><img class="alignnone size-large wp-image-1015" src="/static/2017/09/0928ImmediateReply.jpg?x-oss-process=image/resize,m_fill,w_1024,h_509" alt="" width="1024" height="509" srcset="/static/2017/09/0928ImmediateReply.jpg 1800w, /static/2017/09/0928ImmediateReply.jpg?x-oss-process=image/resize,m_fill,w_300,h_149 300w, /static/2017/09/0928ImmediateReply.jpg?x-oss-process=image/resize,m_fill,w_768,h_381 768w, /static/2017/09/0928ImmediateReply.jpg?x-oss-process=image/resize,m_fill,w_1024,h_509 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></pre>

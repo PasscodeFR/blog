@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-06T11:54:08+00:00
 url: /blog/2017/10/06/2017-1006code-enlightened-or-resistance-joseph-marie-jacquard/
-featured_image: https://image.ingresscode.cn/2017/10/1006jacquard-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/10/1006jacquard-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "76"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-05T09:00:09+00:00
 url: /blog/2017/12/05/2017-1205-in-which-pac-faces-the-heat/
-featured_image: https://image.ingresscode.cn/2017/12/1205FacingTheHeat-768x687.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/12/1205FacingTheHeat-768x687.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "55"
 categories:

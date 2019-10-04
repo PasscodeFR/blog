@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/takeover-700x220.png
 views:
   - "15"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/takeover.png
+  - /static/2017/06/takeover.png
 categories:
   - BLOGcode
   - 已解决

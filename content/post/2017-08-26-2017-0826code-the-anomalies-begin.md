@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-26T03:39:34+00:00
 url: /blog/2017/08/26/2017-0826code-the-anomalies-begin/
-featured_image: https://image.ingresscode.cn/2017/09/0826MagnusAnomaliesBegin.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/0826MagnusAnomaliesBegin.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "66"
 categories:

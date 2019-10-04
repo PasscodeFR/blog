@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-24T15:16:27+00:00
 url: /blog/2017/11/24/2017-1124code-exo5-day-two-anomaly-intel/
-featured_image: https://image.ingresscode.cn/2017/11/1124Exo5Day2.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1124Exo5Day2.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "79"
 categories:

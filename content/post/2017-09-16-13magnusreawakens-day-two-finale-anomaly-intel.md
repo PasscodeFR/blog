@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-16T09:16:40+00:00
 url: /blog/2017/09/16/13magnusreawakens-day-two-finale-anomaly-intel/
-featured_image: https://image.ingresscode.cn/2017/08/0803Triptych-1.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/08/0803Triptych-1.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "42"
 categories:
@@ -75,21 +75,21 @@ Akira Tsukasa（高级IQTech官员）相信如果这个试验成功，结果可�
   
   <tr>
     <td width="183">
-      <a href="https://image.ingresscode.cn/2017/08/08031.png"><img class="size-full wp-image-663 aligncenter" src="https://image.ingresscode.cn/2017/08/08031.png" alt="" width="46" height="47" /></a>Active Anomaly Portal (Phase 1) 激活的异常portal （阶段1）
+      <a href="/static/2017/08/08031.png"><img class="size-full wp-image-663 aligncenter" src="/static/2017/08/08031.png" alt="" width="46" height="47" /></a>Active Anomaly Portal (Phase 1) 激活的异常portal （阶段1）
     </td>
     
     <td width="134">
       &nbsp;</p> 
       
       <p>
-        <a href="https://image.ingresscode.cn/2017/08/08032.png"><img class="size-large wp-image-664 aligncenter" src="https://image.ingresscode.cn/2017/08/08032.png" alt="" width="72" height="71" /></a>
+        <a href="/static/2017/08/08032.png"><img class="size-large wp-image-664 aligncenter" src="/static/2017/08/08032.png" alt="" width="72" height="71" /></a>
       </p>
       
       <p>
         Volatile Portal (Phase 1) 易变portal （阶段1）</td> 
         
         <td width="183">
-          <a href="https://image.ingresscode.cn/2017/08/08033.png"><img class="size-large wp-image-665 aligncenter" src="https://image.ingresscode.cn/2017/08/08033.png" alt="" width="46" height="47" /></a></p> 
+          <a href="/static/2017/08/08033.png"><img class="size-large wp-image-665 aligncenter" src="/static/2017/08/08033.png" alt="" width="46" height="47" /></a></p> 
           
           <p>
             Active Anomaly Portal (Phase 3) 激活的异常portal （阶段3）</td> </tr> </tbody> </table> 

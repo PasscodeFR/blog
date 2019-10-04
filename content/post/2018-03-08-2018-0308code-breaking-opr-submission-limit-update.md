@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-03-08T07:58:17+00:00
 url: /blog/2018/03/08/2018-0308code-breaking-opr-submission-limit-update/
-featured_image: https://image.ingresscode.cn/2018/03/0308OPRupdate.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/03/0308OPRupdate.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "70"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-03T05:23:06+00:00
 url: /blog/2017/08/03/2017-0803code-13magnusreawakens-anomaly-intel/
-featured_image: https://image.ingresscode.cn/2017/08/0803Triptych.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/08/0803Triptych.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "36"
 categories:

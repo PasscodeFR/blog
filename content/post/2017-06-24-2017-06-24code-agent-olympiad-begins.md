@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-06-24T13:55:10+00:00
 url: /blog/2017/06/24/2017-06-24code-agent-olympiad-begins/
-featured_image: https://image.ingresscode.cn/2017/06/OlympiadBegins.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/06/OlympiadBegins.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 cover:
   - https://ingresscode.oss-cn-beijing.aliyuncs.com/2017/06/OlympiadBegins.jpg
 views:
@@ -78,4 +78,4 @@ d5ope9h3in2fgcsr5n
 
 <pre>AgentOlympiad已经开始了，究竟哪个阵营会获得最后胜利，哪些特工会脱颖而出成为Akira的实验对象？</pre>
 
-<img class="alignnone size-full wp-image-277" src="https://ingresscode.oss-cn-beijing.aliyuncs.com/2017/06/3-1.png" alt="" width="830" height="623" srcset="https://image.ingresscode.cn/2017/06/3-1.png 830w, https://image.ingresscode.cn/2017/06/3-1.png?x-oss-process=image/resize,m_fill,w_300,h_225 300w, https://image.ingresscode.cn/2017/06/3-1.png?x-oss-process=image/resize,m_fill,w_768,h_576 768w" sizes="(max-width: 830px) 100vw, 830px" />
+<img class="alignnone size-full wp-image-277" src="https://ingresscode.oss-cn-beijing.aliyuncs.com/2017/06/3-1.png" alt="" width="830" height="623" srcset="/static/2017/06/3-1.png 830w, /static/2017/06/3-1.png?x-oss-process=image/resize,m_fill,w_300,h_225 300w, /static/2017/06/3-1.png?x-oss-process=image/resize,m_fill,w_768,h_576 768w" sizes="(max-width: 830px) 100vw, 830px" />

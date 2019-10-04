@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-07-30T03:42:19+00:00
 url: /blog/2017/07/30/2017-0730code-the-old-astronomer/
-featured_image: https://image.ingresscode.cn/2017/07/0730oldastronomer.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/0730oldastronomer.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "34"
 categories:

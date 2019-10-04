@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-19T09:31:35+00:00
 url: /blog/2017/10/19/2017-1019code-the-patron-portal-at-the-autumn-lights-festival-oakland-ca/
-featured_image: https://image.ingresscode.cn/2017/10/1019ThePatron.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1019ThePatron.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "66"
 categories:

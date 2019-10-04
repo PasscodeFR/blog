@@ -4,9 +4,9 @@ author: fukkix
 type: post
 date: 2017-07-01T11:46:45+00:00
 url: /blog/2017/07/01/2017-07-01code-xm-disturbances/
-featured_image: https://image.ingresscode.cn/2017/07/XMDisturbances.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/XMDisturbances.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 cover:
-  - https://image.ingresscode.cn/2017/07/XMDisturbances.jpg
+  - /static/2017/07/XMDisturbances.jpg
 views:
   - "38"
 categories:

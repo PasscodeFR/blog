@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-25T06:26:36+00:00
 url: /blog/2017/09/25/2017-0925code-mistys-thoughts-on-the-return-of-portal-submissions/
-featured_image: https://image.ingresscode.cn/2017/09/0925return.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/0925return.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "34"
 categories:

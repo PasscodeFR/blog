@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-24T02:02:32+00:00
 url: /blog/2017/08/24/2017-0824codefan-mail-for-misty-hannah/
-featured_image: https://image.ingresscode.cn/2017/08/0824fanmail.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/08/0824fanmail.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "42"
 categories:

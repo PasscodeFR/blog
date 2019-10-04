@@ -6,7 +6,7 @@ date: 2017-04-17T09:01:39+00:00
 url: /blog/2017/04/17/2017-04-17code-kodamasmiles-fateofthe13-part-3/
 featured_image: /wp-content/uploads/2017/06/2-2-700x220.png
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/2-2.png
+  - /static/2017/06/2-2.png
 views:
   - "22"
 categories:
@@ -160,7 +160,7 @@ categories:
   本篇是KODAMASMILES碎片战报道的视频第三部分，视频隐藏一码
 </p>
 
-<img class="size-full wp-image-151 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/3.png" alt="" width="588" height="358" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/3.png 588w, https://www.ingresscode.cn/wp-content/uploads/2017/06/3-300x183.png 300w" sizes="(max-width: 588px) 100vw, 588px" />
+<img class="size-full wp-image-151 aligncenter" src="/static/2017/06/3.png" alt="" width="588" height="358" srcset="/static/2017/06/3.png 588w, /static/2017/06/3-300x183.png 300w" sizes="(max-width: 588px) 100vw, 588px" />
 
 <p style="text-align: center;">
   zcz8xu72lo4-1

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-15T03:02:57+00:00
 url: /blog/2018/01/15/2018-0115code-a-quantum-machine/
-featured_image: https://image.ingresscode.cn/2018/01/0115QuantumMachine.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/0115QuantumMachine.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "77"
 categories:

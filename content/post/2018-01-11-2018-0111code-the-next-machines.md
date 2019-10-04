@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-11T03:00:22+00:00
 url: /blog/2018/01/11/2018-0111code-the-next-machines/
-featured_image: https://image.ingresscode.cn/2018/01/0111Quantum.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/0111Quantum.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "69"
 categories:

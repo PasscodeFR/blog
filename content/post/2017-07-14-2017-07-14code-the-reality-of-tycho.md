@@ -4,11 +4,11 @@ author: fukkix
 type: post
 date: 2017-07-14T13:00:51+00:00
 url: /blog/2017/07/14/2017-07-14code-the-reality-of-tycho/
-featured_image: https://image.ingresscode.cn/2017/07/0714Illusion.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/0714Illusion.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "30"
 cover:
-  - https://image.ingresscode.cn/2017/07/0714Illusion.png
+  - /static/2017/07/0714Illusion.png
 categories:
   - BLOGcode
   - 剧情

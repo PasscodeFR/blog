@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-07-27T01:38:39+00:00
 url: /blog/2017/07/27/2017-07-27code-come-see-the-magic/
-featured_image: https://image.ingresscode.cn/2017/07/0727MistyelPortal.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/0727MistyelPortal.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "36"
 categories:

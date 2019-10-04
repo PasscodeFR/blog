@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-26T15:43:49+00:00
 url: /blog/2018/01/26/2018-0126code-the-self-destruct-sequence/
-featured_image: https://image.ingresscode.cn/2018/01/0126Sacrifice.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/0126Sacrifice.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "74"
 categories:

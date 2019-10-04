@@ -4,7 +4,7 @@ author: mathlover
 type: post
 date: 2018-01-09T22:05:42+00:00
 url: /blog/2018/01/10/jojo-pervious/
-featured_image: https://image.ingresscode.cn/2018/01/PERVIOUS.jpg?x-oss-process=image/resize,m_fill,w_568,h_220
+featured_image: /static/2018/01/PERVIOUS.jpg?x-oss-process=image/resize,m_fill,w_568,h_220
 views:
   - "101"
 categories:

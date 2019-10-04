@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-03-13T04:33:28+00:00
 url: /blog/2018/03/13/2018-0313code-a-dice-thrown-where-we-cannot-see/
-featured_image: https://image.ingresscode.cn/2018/03/0313o7.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/03/0313o7.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "73"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-18T02:24:06+00:00
 url: /blog/2017/11/18/2017-1118code-and-now-misty-too/
-featured_image: https://image.ingresscode.cn/2017/11/1117TheFates.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1117TheFates.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "63"
 categories:

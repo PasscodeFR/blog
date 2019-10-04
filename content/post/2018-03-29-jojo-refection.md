@@ -4,7 +4,7 @@ author: ms300
 type: post
 date: 2018-03-28T16:02:39+00:00
 url: /blog/2018/03/29/jojo-refection/
-featured_image: https://image.ingresscode.cn/2018/03/jojo-5.png?x-oss-process=image/resize,m_fill,w_468,h_220
+featured_image: /static/2018/03/jojo-5.png?x-oss-process=image/resize,m_fill,w_468,h_220
 views:
   - "164"
 categories:

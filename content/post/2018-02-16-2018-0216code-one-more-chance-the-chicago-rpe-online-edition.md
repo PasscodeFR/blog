@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-02-16T01:36:05+00:00
 url: /blog/2018/02/16/2018-0216code-one-more-chance-the-chicago-rpe-online-edition/
-featured_image: https://image.ingresscode.cn/2018/02/0215Pile.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/02/0215Pile.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "76"
 categories:

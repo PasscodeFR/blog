@@ -4,9 +4,9 @@ author: fukkix
 type: post
 date: 2017-06-21T08:13:34+00:00
 url: /blog/2017/06/21/2017-06-21code-hank-johnsons-nomad-13magnus-reawakens-part-2/
-featured_image: https://image.ingresscode.cn/2017/06/nomad13mr-2-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/06/nomad13mr-2-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/nomad13mr-2-470x260.jpg
+  - /static/2017/06/nomad13mr-2-470x260.jpg
 views:
   - "63"
 categories:
@@ -25,7 +25,7 @@ pchdxrtcbgqgirqarloprstkzroyhtmzc<span style="color: #99cc00;"><strong>
 <pre><span style="color: #99cc00;"><strong>ailgnment9nb75yo5</strong></span>
 视频码，格式正确无需解</pre>
 
-<img class="size-full wp-image-238 alignleft" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/1-4.png" alt="" width="470" height="286" srcset="https://image.ingresscode.cn/2017/06/1-4.png 470w, https://image.ingresscode.cn/2017/06/1-4.png?x-oss-process=image/resize,m_fill,w_300,h_183 300w" sizes="(max-width: 470px) 100vw, 470px" />
+<img class="size-full wp-image-238 alignleft" src="/static/2017/06/1-4.png" alt="" width="470" height="286" srcset="/static/2017/06/1-4.png 470w, /static/2017/06/1-4.png?x-oss-process=image/resize,m_fill,w_300,h_183 300w" sizes="(max-width: 470px) 100vw, 470px" />
 
 &nbsp;
 
@@ -58,7 +58,7 @@ pchdxrtcbgqgirqarloprstkzroyhtmzc<span style="color: #99cc00;"><strong>
 29位，采用了特殊的栅栏读法</pre>
   
   <p style="text-align: left;">
-    <img class="size-full wp-image-239 alignleft" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/2-6.png" alt="" width="821" height="132" srcset="https://image.ingresscode.cn/2017/06/2-6.png 821w, https://image.ingresscode.cn/2017/06/2-6.png?x-oss-process=image/resize,m_fill,w_300,h_48 300w, https://image.ingresscode.cn/2017/06/2-6.png?x-oss-process=image/resize,m_fill,w_768,h_123 768w" sizes="(max-width: 821px) 100vw, 821px" />
+    <img class="size-full wp-image-239 alignleft" src="/static/2017/06/2-6.png" alt="" width="821" height="132" srcset="/static/2017/06/2-6.png 821w, /static/2017/06/2-6.png?x-oss-process=image/resize,m_fill,w_300,h_48 300w, /static/2017/06/2-6.png?x-oss-process=image/resize,m_fill,w_768,h_123 768w" sizes="(max-width: 821px) 100vw, 821px" />
   </p>
   
   <p>

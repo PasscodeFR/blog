@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-23T01:56:00+00:00
 url: /blog/2017/10/23/2017-1023code-exo5-day-1-anomaly-footprints-and-phase-maps/
-featured_image: https://image.ingresscode.cn/2017/10/1023Exo5-Day1-001-Osaka-1024x1024.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1023Exo5-Day1-001-Osaka-1024x1024.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "118"
 categories:

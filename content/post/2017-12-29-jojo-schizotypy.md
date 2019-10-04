@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-29T03:44:22+00:00
 url: /blog/2017/12/29/jojo-schizotypy/
-featured_image: https://image.ingresscode.cn/2017/12/SCHIZOTYPY.jpg?x-oss-process=image/resize,m_fill,w_568,h_220
+featured_image: /static/2017/12/SCHIZOTYPY.jpg?x-oss-process=image/resize,m_fill,w_568,h_220
 views:
   - "87"
 categories:

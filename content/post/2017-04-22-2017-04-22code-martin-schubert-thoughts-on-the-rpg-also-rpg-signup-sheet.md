@@ -6,7 +6,7 @@ date: 2017-04-22T13:28:54+00:00
 url: /blog/2017/04/22/2017-04-22code-martin-schubert-thoughts-on-the-rpg-also-rpg-signup-sheet/
 featured_image: /wp-content/uploads/2017/06/FunandGames-700x220.jpg
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/FunandGames.jpg
+  - /static/2017/06/FunandGames.jpg
 views:
   - "24"
 categories:
@@ -150,7 +150,7 @@ categories:
   答案是
 </p>
 
-<img class="size-full wp-image-173 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/092.f9182271aae7c6b45299439c745fc0b07.png" alt="" width="50" height="55" />
+<img class="size-full wp-image-173 aligncenter" src="/static/2017/06/092.f9182271aae7c6b45299439c745fc0b07.png" alt="" width="50" height="55" />
 
 <p style="text-align: center;">
   <span style="color: #99cc00;"><strong>exz54strong757sp</strong></span>

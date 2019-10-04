@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-03-16T09:01:25+00:00
 url: /blog/2018/03/16/2018-0316code-a-tycho-in-tokyo/
-featured_image: https://image.ingresscode.cn/2018/03/0317epiphanynight.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/03/0317epiphanynight.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "81"
 categories:

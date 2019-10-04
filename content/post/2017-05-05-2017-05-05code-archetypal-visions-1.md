@@ -4,9 +4,9 @@ author: fukkix
 type: post
 date: 2017-05-05T01:52:30+00:00
 url: /blog/2017/05/05/2017-05-05code-archetypal-visions-1/
-featured_image: https://image.ingresscode.cn/2017/05/tycho-archetypal-visions-1.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/05/tycho-archetypal-visions-1.png?x-oss-process=image/resize,m_fill,w_700,h_220
 cover:
-  - https://image.ingresscode.cn/2017/05/tycho-archetypal-visions-1.png
+  - /static/2017/05/tycho-archetypal-visions-1.png
 views:
   - "37"
 categories:

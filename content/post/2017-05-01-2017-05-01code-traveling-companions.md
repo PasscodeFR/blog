@@ -6,7 +6,7 @@ date: 2017-05-01T09:18:11+00:00
 url: /blog/2017/05/01/2017-05-01code-traveling-companions/
 featured_image: /wp-content/uploads/2017/05/friends-700x220.jpg
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/05/friends.jpg
+  - /static/2017/05/friends.jpg
 views:
   - "17"
 categories:

@@ -4,7 +4,7 @@ author: ms300
 type: post
 date: 2018-03-05T17:19:44+00:00
 url: /blog/2018/03/06/jojo-oblivescence/
-featured_image: https://image.ingresscode.cn/2018/03/jojo-1.png?x-oss-process=image/resize,m_fill,w_530,h_220
+featured_image: /static/2018/03/jojo-1.png?x-oss-process=image/resize,m_fill,w_530,h_220
 views:
   - "99"
 categories:

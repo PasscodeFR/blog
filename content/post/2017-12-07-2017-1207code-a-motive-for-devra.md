@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-07T02:26:17+00:00
 url: /blog/2017/12/07/2017-1207code-a-motive-for-devra/
-featured_image: https://image.ingresscode.cn/2017/12/1208Benefits-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/12/1208Benefits-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "56"
 categories:

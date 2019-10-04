@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-02-27T02:41:33+00:00
 url: /blog/2018/02/27/the-clam-before-the-storm/
-featured_image: https://image.ingresscode.cn/2018/02/0227.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/02/0227.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "87"
 categories:

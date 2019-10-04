@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-07T08:04:13+00:00
 url: /blog/2018/01/07/2018-0107code-self-discovery/
-featured_image: https://image.ingresscode.cn/2018/01/0107Self.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/0107Self.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "97"
 categories:

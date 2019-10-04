@@ -4,7 +4,7 @@ author: ms300
 type: post
 date: 2018-01-22T10:52:20+00:00
 url: /blog/2018/01/22/jojo-totimal/
-featured_image: https://image.ingresscode.cn/2018/01/TOTimal.png?x-oss-process=image/resize,m_fill,w_457,h_220
+featured_image: /static/2018/01/TOTimal.png?x-oss-process=image/resize,m_fill,w_457,h_220
 views:
   - "143"
 categories:

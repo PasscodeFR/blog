@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-20T06:41:44+00:00
 url: /blog/2017/12/20/2017-1220code-mutual-mistrust/
-featured_image: https://image.ingresscode.cn/2017/12/1220Mistrust-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/12/1220Mistrust-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "51"
 categories:

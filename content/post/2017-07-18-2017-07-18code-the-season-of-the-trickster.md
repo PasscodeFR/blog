@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-07-18T15:47:10+00:00
 url: /blog/2017/07/18/2017-07-18code-the-season-of-the-trickster/
-featured_image: https://image.ingresscode.cn/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "42"
 categories:
@@ -27,8 +27,8 @@ This led to a disturbing period. Was I a plagiarist? But if so from whom? Where 
 这导致我经历了一个困扰的时期。我是抄袭者吗？抄袭了谁？我的灵感从哪儿来？别人的灵感又是从哪儿来的？nianticproject.com
 
 地图显示的地点
-<a href="https://image.ingresscode.cn/2017/07/0718span2.jpg"><img class="alignnone size-full wp-image-578" src="https://image.ingresscode.cn/2017/07/0718span2.jpg" alt="" width="498" height="545" srcset="https://image.ingresscode.cn/2017/07/0718span2.jpg 498w, https://image.ingresscode.cn/2017/07/0718span2.jpg?x-oss-process=image/resize,m_fill,w_274,h_300 274w" sizes="(max-width: 498px) 100vw, 498px" /></a> <a href="https://image.ingresscode.cn/2017/07/0718span3.jpg">
-<img class="alignnone size-large wp-image-579" src="https://image.ingresscode.cn/2017/07/0718span3.jpg" alt="" width="463" height="508" srcset="https://image.ingresscode.cn/2017/07/0718span3.jpg 463w, https://image.ingresscode.cn/2017/07/0718span3.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w" sizes="(max-width: 463px) 100vw, 463px" /></a></pre>
+<a href="/static/2017/07/0718span2.jpg"><img class="alignnone size-full wp-image-578" src="/static/2017/07/0718span2.jpg" alt="" width="498" height="545" srcset="/static/2017/07/0718span2.jpg 498w, /static/2017/07/0718span2.jpg?x-oss-process=image/resize,m_fill,w_274,h_300 274w" sizes="(max-width: 498px) 100vw, 498px" /></a> <a href="/static/2017/07/0718span3.jpg">
+<img class="alignnone size-large wp-image-579" src="/static/2017/07/0718span3.jpg" alt="" width="463" height="508" srcset="/static/2017/07/0718span3.jpg 463w, /static/2017/07/0718span3.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w" sizes="(max-width: 463px) 100vw, 463px" /></a></pre>
 
 <pre>Hank Johnson离开印度开始了另一段旅途————他打算去Tycho在Comi-Con 2012漫展展出的五张画里“预示”的五个地点。
 

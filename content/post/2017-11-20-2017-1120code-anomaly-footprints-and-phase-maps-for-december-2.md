@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-20T03:29:00+00:00
 url: /blog/2017/11/20/2017-1120code-anomaly-footprints-and-phase-maps-for-december-2/
-featured_image: https://image.ingresscode.cn/2017/11/112001Taipei.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/112001Taipei.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "60"
 categories:

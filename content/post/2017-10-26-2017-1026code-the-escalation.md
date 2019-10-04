@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-26T06:25:29+00:00
 url: /blog/2017/10/26/2017-1026code-the-escalation/
-featured_image: https://image.ingresscode.cn/2017/10/1026GetTogether3.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1026GetTogether3.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "70"
 categories:

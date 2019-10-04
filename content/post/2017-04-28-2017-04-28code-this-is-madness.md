@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/danger-700x220.jpg
 views:
   - "21"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/danger.jpg
+  - /static/2017/06/danger.jpg
 categories:
   - BLOGcode
   - 已解决

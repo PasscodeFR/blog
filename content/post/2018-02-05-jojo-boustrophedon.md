@@ -4,7 +4,7 @@ author: ms300
 type: post
 date: 2018-02-05T06:38:15+00:00
 url: /blog/2018/02/05/jojo-boustrophedon/
-featured_image: https://image.ingresscode.cn/2018/02/jojo-2.png?x-oss-process=image/resize,m_fill,w_530,h_220
+featured_image: /static/2018/02/jojo-2.png?x-oss-process=image/resize,m_fill,w_530,h_220
 views:
   - "153"
 categories:

@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/TheFirst-700x220.jpg
 views:
   - "80"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/TheFirst.jpg
+  - /static/2017/06/TheFirst.jpg
 categories:
   - BLOGcode
   - 已解决
@@ -194,7 +194,7 @@ categories:
   </p>
   
   <p>
-    <img class="aligncenter wp-image-127 size-large" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/IMG_2628-611x1024.jpg" alt="" width="611" height="1024" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/IMG_2628-611x1024.jpg 611w, https://www.ingresscode.cn/wp-content/uploads/2017/06/IMG_2628-179x300.jpg 179w, https://www.ingresscode.cn/wp-content/uploads/2017/06/IMG_2628.jpg 750w" sizes="(max-width: 611px) 100vw, 611px" />
+    <img class="aligncenter wp-image-127 size-large" src="/static/2017/06/IMG_2628-611x1024.jpg" alt="" width="611" height="1024" srcset="/static/2017/06/IMG_2628-611x1024.jpg 611w, /static/2017/06/IMG_2628-179x300.jpg 179w, /static/2017/06/IMG_2628.jpg 750w" sizes="(max-width: 611px) 100vw, 611px" />
   </p>
   
   <p>
@@ -226,7 +226,7 @@ categories:
   <a href="https://soundcloud.com/user-516270392/the-begin-elegy">音乐链接-The Begin (elegy)</a>
 </p>
 
-<img class="size-full wp-image-116 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/begin.jpg" alt="" width="595" height="842" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/begin.jpg 595w, https://www.ingresscode.cn/wp-content/uploads/2017/06/begin-212x300.jpg 212w" sizes="(max-width: 595px) 100vw, 595px" />
+<img class="size-full wp-image-116 aligncenter" src="/static/2017/06/begin.jpg" alt="" width="595" height="842" srcset="/static/2017/06/begin.jpg 595w, /static/2017/06/begin-212x300.jpg 212w" sizes="(max-width: 595px) 100vw, 595px" />
 
 &nbsp;
 

@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/AnomalousZones-700x220.jpg
 views:
   - "20"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/AnomalousZones.jpg
+  - /static/2017/06/AnomalousZones.jpg
 categories:
   - BLOGcode
   - 剧情

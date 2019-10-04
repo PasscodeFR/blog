@@ -4,11 +4,11 @@ author: fukkix
 type: post
 date: 2017-07-13T17:52:20+00:00
 url: /blog/2017/07/14/2017-07-14jojos-ginstantiate/
-featured_image: https://image.ingresscode.cn/2017/07/17-07-14INSTANTIATE.jpg?x-oss-process=image/resize,m_fill,w_571,h_220
+featured_image: /static/2017/07/17-07-14INSTANTIATE.jpg?x-oss-process=image/resize,m_fill,w_571,h_220
 views:
   - "51"
 cover:
-  - https://image.ingresscode.cn/2017/07/17-07-14INSTANTIATE.jpg
+  - /static/2017/07/17-07-14INSTANTIATE.jpg
 categories:
   - WOTDcode
   - 未解

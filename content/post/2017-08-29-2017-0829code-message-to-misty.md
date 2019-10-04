@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-29T13:54:32+00:00
 url: /blog/2017/08/29/2017-0829code-message-to-misty/
-featured_image: https://image.ingresscode.cn/2017/09/0829MsgforMisty-470x260.png?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/09/0829MsgforMisty-470x260.png?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "36"
 categories:

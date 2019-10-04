@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-02-14T13:32:08+00:00
 url: /blog/2018/02/14/2018-0214code-mysterious-aberrations/
-featured_image: https://image.ingresscode.cn/2018/02/0214WideTemporalSurvey-Resolved.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/02/0214WideTemporalSurvey-Resolved.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "79"
 categories:

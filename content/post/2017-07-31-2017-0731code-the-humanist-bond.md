@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-07-31T09:05:05+00:00
 url: /blog/2017/07/31/2017-0731code-the-humanist-bond/
-featured_image: https://image.ingresscode.cn/2017/07/0731TheHumanist.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/0731TheHumanist.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "35"
 categories:

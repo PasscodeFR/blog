@@ -4,9 +4,9 @@ author: claire9
 type: post
 date: 2017-07-10T10:07:58+00:00
 url: /blog/2017/07/10/2017-07-10code-the-ito-en-transmuter/
-featured_image: https://image.ingresscode.cn/2017/07/ItoEnTransmuterEN-470x260.png?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/07/ItoEnTransmuterEN-470x260.png?x-oss-process=image/resize,m_fill,w_470,h_220
 cover:
-  - https://image.ingresscode.cn/2017/07/ItoEnTransmuterEN-470x260.png
+  - /static/2017/07/ItoEnTransmuterEN-470x260.png
 views:
   - "59"
 categories:

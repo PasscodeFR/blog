@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-04T17:26:05+00:00
 url: /blog/2017/09/05/2017-0905code-a-visit-to-the-mind-palace/
-featured_image: https://image.ingresscode.cn/2017/09/090599.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/090599.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "33"
 categories:

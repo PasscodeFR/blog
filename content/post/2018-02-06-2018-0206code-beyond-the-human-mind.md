@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-02-06T03:53:58+00:00
 url: /blog/2018/02/06/2018-0206code-beyond-the-human-mind/
-featured_image: https://image.ingresscode.cn/2018/02/0206XMEverywhere.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/02/0206XMEverywhere.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "87"
 categories:

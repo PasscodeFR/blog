@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/Sources-700x220.jpg
 views:
   - "25"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/Sources.jpg
+  - /static/2017/06/Sources.jpg
 categories:
   - BLOGcode
   - 已解决

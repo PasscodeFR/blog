@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-10T02:59:42+00:00
 url: /blog/2017/08/10/2017-0810code-a-different-kind-of-virus/
-featured_image: https://image.ingresscode.cn/2017/08/0810Virus.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/08/0810Virus.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "25"
 categories:

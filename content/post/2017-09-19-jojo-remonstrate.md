@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-19T12:38:13+00:00
 url: /blog/2017/09/19/jojo-remonstrate/
-featured_image: https://image.ingresscode.cn/2017/09/REMONSTRATE.jpg?x-oss-process=image/resize,m_fill,w_582,h_220
+featured_image: /static/2017/09/REMONSTRATE.jpg?x-oss-process=image/resize,m_fill,w_582,h_220
 views:
   - "47"
 categories:

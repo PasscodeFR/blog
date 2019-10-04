@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-15T12:23:39+00:00
 url: /blog/2017/10/15/2017-1015code-enlightened-or-resistance-maurice-princet/
-featured_image: https://image.ingresscode.cn/2017/10/1015Cube.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1015Cube.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "44"
 categories:

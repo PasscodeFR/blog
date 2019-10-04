@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-03-07T13:21:18+00:00
 url: /blog/2018/03/07/2019-0307code-dark-xm-threat-and-response/
-featured_image: https://image.ingresscode.cn/2018/03/0307.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2018/03/0307.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "83"
 categories:

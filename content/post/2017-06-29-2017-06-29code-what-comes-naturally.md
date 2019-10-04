@@ -4,9 +4,9 @@ author: fukkix
 type: post
 date: 2017-06-29T15:25:43+00:00
 url: /blog/2017/06/29/2017-06-29code-what-comes-naturally/
-featured_image: https://image.ingresscode.cn/2017/06/Natural.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/06/Natural.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 cover:
-  - https://image.ingresscode.cn/2017/06/Natural.jpg
+  - /static/2017/06/Natural.jpg
 views:
   - "47"
 categories:

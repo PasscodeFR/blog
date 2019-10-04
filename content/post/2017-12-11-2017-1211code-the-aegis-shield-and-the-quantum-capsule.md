@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-11T04:21:40+00:00
 url: /blog/2017/12/11/2017-1211code-the-aegis-shield-and-the-quantum-capsule/
-featured_image: https://image.ingresscode.cn/2017/12/1211AegisQuantum-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/12/1211AegisQuantum-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "64"
 categories:

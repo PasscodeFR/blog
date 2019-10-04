@@ -4,7 +4,7 @@ author: mathlover
 type: post
 date: 2017-10-17T05:53:51+00:00
 url: /blog/2017/10/17/jojo-tendentious/
-featured_image: https://image.ingresscode.cn/2017/10/TENDENTIOUS.jpg?x-oss-process=image/resize,m_fill,w_565,h_220
+featured_image: /static/2017/10/TENDENTIOUS.jpg?x-oss-process=image/resize,m_fill,w_565,h_220
 views:
   - "88"
 categories:

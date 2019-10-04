@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-09T15:34:03+00:00
 url: /blog/2017/10/09/2017-1009code-motive-means-opportunity/
-featured_image: https://image.ingresscode.cn/2017/10/1008TheHunter.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1008TheHunter.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "39"
 categories:

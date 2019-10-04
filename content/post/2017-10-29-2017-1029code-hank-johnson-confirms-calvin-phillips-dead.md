@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-29T10:13:39+00:00
 url: /blog/2017/10/29/2017-1029code-hank-johnson-confirms-calvin-phillips-dead/
-featured_image: https://image.ingresscode.cn/2017/10/1029Friend.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1029Friend.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "87"
 categories:

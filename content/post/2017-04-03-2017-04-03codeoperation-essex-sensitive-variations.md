@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/SensitiveCategorization-700x220.jpg
 views:
   - "28"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/SensitiveCategorization.jpg
+  - /static/2017/06/SensitiveCategorization.jpg
 categories:
   - BLOGcode
   - 已解决
@@ -49,7 +49,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-55 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/未标题-1-1.jpg" alt="" width="269" height="262" />
+  <img class="size-full wp-image-55 aligncenter" src="/static/2017/06/未标题-1-1.jpg" alt="" width="269" height="262" />
 </p>
 
 <p style="text-align: center;">
@@ -104,7 +104,7 @@ categories:
   观察字母分布，只有u是贯穿整串码的字母，且没出现过重复，试以u作为分隔符：
 </p>
 
-<img class="size-full wp-image-56 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/231.png" alt="" width="696" height="384" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/231.png 696w, https://www.ingresscode.cn/wp-content/uploads/2017/06/231-300x166.png 300w" sizes="(max-width: 696px) 100vw, 696px" />
+<img class="size-full wp-image-56 aligncenter" src="/static/2017/06/231.png" alt="" width="696" height="384" srcset="/static/2017/06/231.png 696w, /static/2017/06/231-300x166.png 300w" sizes="(max-width: 696px) 100vw, 696px" />
 
 <p style="text-align: center;">
   总共分为24段，最长的一段为5个字母，很像morse的编码方式。
@@ -146,7 +146,7 @@ categories:
   <span style="color: #999999;">————————分割线————————</span>
 </p>
 
-<img class="size-full wp-image-57 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/code1.jpg" alt="" width="935" height="85" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/code1.jpg 935w, https://www.ingresscode.cn/wp-content/uploads/2017/06/code1-300x27.jpg 300w, https://www.ingresscode.cn/wp-content/uploads/2017/06/code1-768x70.jpg 768w" sizes="(max-width: 935px) 100vw, 935px" />
+<img class="size-full wp-image-57 aligncenter" src="/static/2017/06/code1.jpg" alt="" width="935" height="85" srcset="/static/2017/06/code1.jpg 935w, /static/2017/06/code1-300x27.jpg 300w, /static/2017/06/code1-768x70.jpg 768w" sizes="(max-width: 935px) 100vw, 935px" />
 
 <p style="text-align: center;">
   4.1日开始通过hack可以得到的媒体文件，每个文件内藏的字母不同，按历史发布顺序排序

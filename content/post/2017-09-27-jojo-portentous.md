@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-27T03:10:35+00:00
 url: /blog/2017/09/27/jojo-portentous/
-featured_image: https://image.ingresscode.cn/2017/09/PORTENTOUS.jpg?x-oss-process=image/resize,m_fill,w_576,h_220
+featured_image: /static/2017/09/PORTENTOUS.jpg?x-oss-process=image/resize,m_fill,w_576,h_220
 views:
   - "62"
 categories:

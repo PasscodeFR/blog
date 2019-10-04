@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-17T02:28:11+00:00
 url: /blog/2017/11/17/2017-1117code-devras-heading-to-san-francisco/
-featured_image: https://image.ingresscode.cn/2017/11/1116Bay.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1116Bay.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "44"
 categories:

@@ -4,7 +4,7 @@ author: ms300
 type: post
 date: 2018-02-05T06:14:00+00:00
 url: /blog/2018/02/05/jojo-euhemerism/
-featured_image: https://image.ingresscode.cn/2018/02/jojo.png?x-oss-process=image/resize,m_fill,w_530,h_220
+featured_image: /static/2018/02/jojo.png?x-oss-process=image/resize,m_fill,w_530,h_220
 views:
   - "122"
 categories:

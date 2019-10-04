@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/gamestate-700x220.png
 views:
   - "14"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/gamestate.png
+  - /static/2017/06/gamestate.png
 categories:
   - BLOGcode
   - 已解决

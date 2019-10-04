@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-01T08:03:42+00:00
 url: /blog/2018/01/01/2018-0101code-the-redacted-report-part-2/
-featured_image: https://image.ingresscode.cn/2018/01/0101RedactedReport2.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/0101RedactedReport2.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "67"
 categories:
@@ -52,7 +52,7 @@ a=0换成字母
 und25 10 522aa
 关键字部分10看成罗马数字X
 在剧情里X代表Verity Seke
-<a href="https://image.ingresscode.cn/2018/01/20180103155150.png"><img class="alignnone size-full wp-image-1330" src="https://image.ingresscode.cn/2018/01/20180103155150.png" alt="" width="779" height="390" srcset="https://image.ingresscode.cn/2018/01/20180103155150.png 779w, https://image.ingresscode.cn/2018/01/20180103155150.png?x-oss-process=image/resize,m_fill,w_300,h_150 300w, https://image.ingresscode.cn/2018/01/20180103155150.png?x-oss-process=image/resize,m_fill,w_768,h_384 768w" sizes="(max-width: 779px) 100vw, 779px" /></a>
+<a href="/static/2018/01/20180103155150.png"><img class="alignnone size-full wp-image-1330" src="/static/2018/01/20180103155150.png" alt="" width="779" height="390" srcset="/static/2018/01/20180103155150.png 779w, /static/2018/01/20180103155150.png?x-oss-process=image/resize,m_fill,w_300,h_150 300w, /static/2018/01/20180103155150.png?x-oss-process=image/resize,m_fill,w_768,h_384 768w" sizes="(max-width: 779px) 100vw, 779px" /></a>
 <span style="color: #99cc00;"><strong>und25verity522aa</strong></span></pre>
 
 * * *

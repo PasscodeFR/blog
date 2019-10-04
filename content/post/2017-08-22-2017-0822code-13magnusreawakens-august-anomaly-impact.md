@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-22T15:21:51+00:00
 url: /blog/2017/08/22/2017-0822code-13magnusreawakens-august-anomaly-impact/
-featured_image: https://image.ingresscode.cn/2017/08/0822anomalyimpact.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/08/0822anomalyimpact.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "40"
 categories:

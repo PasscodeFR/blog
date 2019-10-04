@@ -4,7 +4,7 @@ author: mathlover
 type: post
 date: 2018-04-11T16:00:01+00:00
 url: /blog/2018/04/12/jojo-adaboost/
-featured_image: https://image.ingresscode.cn/2018/04/photo_2018-04-11_16-00-23.jpg?x-oss-process=image/resize,m_fill,w_601,h_220
+featured_image: /static/2018/04/photo_2018-04-11_16-00-23.jpg?x-oss-process=image/resize,m_fill,w_601,h_220
 views:
   - "234"
 categories:

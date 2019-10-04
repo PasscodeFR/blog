@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-21T04:25:52+00:00
 url: /blog/2017/10/21/2017-1021code-enlightened-or-resistance-erwin-schrodinger/
-featured_image: https://image.ingresscode.cn/2017/10/1021Erwin.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1021Erwin.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "86"
 categories:

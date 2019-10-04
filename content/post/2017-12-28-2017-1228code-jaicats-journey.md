@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-28T02:54:23+00:00
 url: /blog/2017/12/28/2017-1228code-jaicats-journey/
-featured_image: https://image.ingresscode.cn/2017/12/1228JaicatJourney-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/12/1228JaicatJourney-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "53"
 categories:

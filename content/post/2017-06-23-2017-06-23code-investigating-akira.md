@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-06-23T04:44:45+00:00
 url: /blog/2017/06/23/2017-06-23code-investigating-akira/
-featured_image: https://image.ingresscode.cn/2017/06/InvestigatingAkira.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/06/InvestigatingAkira.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 cover:
   - https://ingresscode.oss-cn-beijing.aliyuncs.com/2017/06/InvestigatingAkira.jpg
 views:
@@ -94,7 +94,7 @@ ASCII的二进制码，转码得
 <pre>在MAGNUS原有12名成员被ENL释放后，Akira迫切需要物色新的MAGNUS，
 <span class="goog-text-highlight"><a href="https://plus.google.com/s/%23AgentOlympiad/top">#AgentOlympiad</a>是最近值得关注的事件，</span><a href="https://www.facebook.com/KodamaSmiles/">Kodamasmiles</a>会进行跟踪报道（也是为了调查Akira）
 
-<img class="alignnone size-full wp-image-268" src="https://ingresscode.oss-cn-beijing.aliyuncs.com/2017/06/rings.png" alt="" width="559" height="305" srcset="https://image.ingresscode.cn/2017/06/rings.png 559w, https://image.ingresscode.cn/2017/06/rings.png?x-oss-process=image/resize,m_fill,w_300,h_164 300w" sizes="(max-width: 559px) 100vw, 559px" />
+<img class="alignnone size-full wp-image-268" src="https://ingresscode.oss-cn-beijing.aliyuncs.com/2017/06/rings.png" alt="" width="559" height="305" srcset="/static/2017/06/rings.png 559w, /static/2017/06/rings.png?x-oss-process=image/resize,m_fill,w_300,h_164 300w" sizes="(max-width: 559px) 100vw, 559px" />
 <a href="https://plus.google.com/109846653838501599116" target="_blank" rel="noopener">Verum Inveniri</a>20小时之前在G+发表了一则消息：
 Agents,
  
@@ -102,7 +102,7 @@ Who will win the gold medal in the cryptochase?
  
 KSCGYJQNZXKEEQNQZFPBLRSDVRQKIAMUKLPLBQHFOKEYRWGQDWXVKTNZRBIVXBICDPLFTITSPUSZQLSOQNDWRJZITPLCIIGNQFGVOPWNRITNNVLXETGUMMNLYWROHDWYEMPFGSHYBIMZZUMLQLCQUFDLYOKSFTLYTAVNPBALWSRNUAUGLEWDMBIVLWUJOKOWROLCXGVLWUUNMNTBKKUAWTOFGROHZRAGRNYUSEKXYDDODZSHUJDNNMIBCSFPFZLQKQYMNTESWIUMGUHPQPVEUAOSLNHTQSEOEGDSTYEMGQVKYORXMZBBOCJFJGWVVSRPIETSLSQVFQLZGIGTZRNBNTNRYCNY
 以下为字频分析，替换方式还在研究中。
-<img class="alignnone size-full wp-image-271" src="https://ingresscode.oss-cn-beijing.aliyuncs.com/2017/06/2-8.jpg" alt="" width="1271" height="623" srcset="https://image.ingresscode.cn/2017/06/2-8.jpg 1271w, https://image.ingresscode.cn/2017/06/2-8.jpg?x-oss-process=image/resize,m_fill,w_300,h_147 300w, https://image.ingresscode.cn/2017/06/2-8.jpg?x-oss-process=image/resize,m_fill,w_768,h_376 768w, https://image.ingresscode.cn/2017/06/2-8.jpg?x-oss-process=image/resize,m_fill,w_1024,h_502 1024w" sizes="(max-width: 1271px) 100vw, 1271px" />
+<img class="alignnone size-full wp-image-271" src="https://ingresscode.oss-cn-beijing.aliyuncs.com/2017/06/2-8.jpg" alt="" width="1271" height="623" srcset="/static/2017/06/2-8.jpg 1271w, /static/2017/06/2-8.jpg?x-oss-process=image/resize,m_fill,w_300,h_147 300w, /static/2017/06/2-8.jpg?x-oss-process=image/resize,m_fill,w_768,h_376 768w, /static/2017/06/2-8.jpg?x-oss-process=image/resize,m_fill,w_1024,h_502 1024w" sizes="(max-width: 1271px) 100vw, 1271px" />
 </pre>
 
 &nbsp;

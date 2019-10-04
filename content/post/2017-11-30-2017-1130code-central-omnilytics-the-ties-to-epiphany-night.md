@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-30T05:29:50+00:00
 url: /blog/2017/11/30/2017-1130code-central-omnilytics-the-ties-to-epiphany-night/
-featured_image: https://image.ingresscode.cn/2017/12/1130Omnilytics3.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/12/1130Omnilytics3.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "60"
 categories:

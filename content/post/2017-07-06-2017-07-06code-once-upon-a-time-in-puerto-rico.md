@@ -4,7 +4,7 @@ author: claire9
 type: post
 date: 2017-07-06T15:00:39+00:00
 url: /blog/2017/07/06/2017-07-06code-once-upon-a-time-in-puerto-rico/
-featured_image: https://image.ingresscode.cn/2017/07/OnceinPuertoRico.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/OnceinPuertoRico.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "44"
 categories:
@@ -67,7 +67,7 @@ tags:
 <pre><strong>p;j75;rhrly;575io
 </strong>此码的解码用到了一般键盘上键位的轴对称关系
 观察如下键盘，以红线为对称轴，找出左右键位间的对应关系
-<strong><img class="alignnone size-medium wp-image-457" src="https://image.ingresscode.cn/2017/07/KBUSA_WB_grande-copy1.png?x-oss-process=image/resize,m_fill,w_300,h_100" alt="" width="300" height="100" srcset="https://image.ingresscode.cn/2017/07/KBUSA_WB_grande-copy1.png 600w, https://image.ingresscode.cn/2017/07/KBUSA_WB_grande-copy1.png?x-oss-process=image/resize,m_fill,w_300,h_100 300w" sizes="(max-width: 300px) 100vw, 300px" />
+<strong><img class="alignnone size-medium wp-image-457" src="/static/2017/07/KBUSA_WB_grande-copy1.png?x-oss-process=image/resize,m_fill,w_300,h_100" alt="" width="300" height="100" srcset="/static/2017/07/KBUSA_WB_grande-copy1.png 600w, /static/2017/07/KBUSA_WB_grande-copy1.png?x-oss-process=image/resize,m_fill,w_300,h_100 300w" sizes="(max-width: 300px) 100vw, 300px" />
 </strong>对照原码找出对应的字母/数字
 <strong><span style="color: #99cc00;">qaf46augusta646ew</span></strong></pre>
 

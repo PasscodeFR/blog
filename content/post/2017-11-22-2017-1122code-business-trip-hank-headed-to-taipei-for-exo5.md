@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-22T09:21:36+00:00
 url: /blog/2017/11/22/2017-1122code-business-trip-hank-headed-to-taipei-for-exo5/
-featured_image: https://image.ingresscode.cn/2017/11/1122BusinessTrip.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1122BusinessTrip.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "53"
 categories:

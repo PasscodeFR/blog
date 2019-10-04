@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-13T02:29:31+00:00
 url: /blog/2017/09/13/2017-0913code-13magnusreawakens-day-2-anomaly-intel-footprints-and-phase-maps/
-featured_image: https://image.ingresscode.cn/2017/09/091313MAGNUSREAWAKENSDayTwo.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/091313MAGNUSREAWAKENSDayTwo.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "38"
 categories:

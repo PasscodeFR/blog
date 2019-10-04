@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-07-23T06:38:17+00:00
 url: /blog/2017/07/23/2017-07-23code-the-ruin-of-scopas/
-featured_image: https://image.ingresscode.cn/2017/07/Tycho6.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/Tycho6.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "35"
 categories:

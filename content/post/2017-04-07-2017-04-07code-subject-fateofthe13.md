@@ -6,7 +6,7 @@ date: 2017-04-07T07:12:16+00:00
 url: /blog/2017/04/07/2017-04-07code-subject-fateofthe13/
 featured_image: /wp-content/uploads/2017/04/SubjectFateOfThe13-700x220.jpg
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/04/SubjectFateOfThe13.jpg
+  - /static/2017/04/SubjectFateOfThe13.jpg
 views:
   - "21"
 categories:
@@ -32,7 +32,7 @@ categories:
 
 翻看源码发现一个陷阱：其中有的“-”是用“&#8211;”指代的，这个数字常用于代表双横杠，（即一个“-”要扩展成“&#8211;”）。把源代码中所有8211指代的“-”都替换成“&#8211;”后，总字符长度变成了630位。按126*5分组，只看下划线和竖线组成部分（即“_|”），得到这幅图
 
-<img class="alignnone size-full wp-image-101" src="https://www.ingresscode.cn/wp-content/uploads/2017/04/1-1.jpg" alt="" width="1807" height="200" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/04/1-1.jpg 1807w, https://www.ingresscode.cn/wp-content/uploads/2017/04/1-1-300x33.jpg 300w, https://www.ingresscode.cn/wp-content/uploads/2017/04/1-1-768x85.jpg 768w, https://www.ingresscode.cn/wp-content/uploads/2017/04/1-1-1024x113.jpg 1024w" sizes="(max-width: 1807px) 100vw, 1807px" />
+<img class="alignnone size-full wp-image-101" src="/static/2017/04/1-1.jpg" alt="" width="1807" height="200" srcset="/static/2017/04/1-1.jpg 1807w, /static/2017/04/1-1-300x33.jpg 300w, /static/2017/04/1-1-768x85.jpg 768w, /static/2017/04/1-1-1024x113.jpg 1024w" sizes="(max-width: 1807px) 100vw, 1807px" />
 
 <p style="text-align: center;">
   umh98old749js

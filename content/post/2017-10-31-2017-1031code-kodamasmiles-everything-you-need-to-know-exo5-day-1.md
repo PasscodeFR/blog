@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-31T06:30:11+00:00
 url: /blog/2017/10/31/2017-1031code-kodamasmiles-everything-you-need-to-know-exo5-day-1/
-featured_image: https://image.ingresscode.cn/2017/11/1031Exo5Things.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1031Exo5Things.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "45"
 categories:

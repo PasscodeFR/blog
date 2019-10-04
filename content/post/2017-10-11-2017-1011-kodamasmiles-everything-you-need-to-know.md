@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-11T15:16:03+00:00
 url: /blog/2017/10/11/2017-1011-kodamasmiles-everything-you-need-to-know/
-featured_image: https://image.ingresscode.cn/2017/10/1011Wash.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1011Wash.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "46"
 categories:
@@ -74,7 +74,7 @@ t2t
 </strong>]和[看成glyph的“past”和“future”<strong>
 </strong></pre>
 
-[<img class=" wp-image-958" src="https://image.ingresscode.cn/2017/09/302876244695843335.png" alt="" width="160" height="94" srcset="https://image.ingresscode.cn/2017/09/302876244695843335.png 512w, https://image.ingresscode.cn/2017/09/302876244695843335.png?x-oss-process=image/resize,m_fill,w_300,h_176 300w" sizes="(max-width: 160px) 100vw, 160px" />][1]
+[<img class=" wp-image-958" src="/static/2017/09/302876244695843335.png" alt="" width="160" height="94" srcset="/static/2017/09/302876244695843335.png 512w, /static/2017/09/302876244695843335.png?x-oss-process=image/resize,m_fill,w_300,h_176 300w" sizes="(max-width: 160px) 100vw, 160px" />][1]
 
 <pre>左边是过去，右边是未来，那么中间keyword部分大概就是“现在（now）”
 前缀ROT+1得5ocu6
@@ -90,4 +90,4 @@ o 为什么这场谋杀是场表演？它发生在Lynton-Wolfe因为挑战Jarvis
 o 它和1331有什么关系？国家情报局-IQTech公司-November Lima项目。华盛顿是三者共有的老家。
 o 外源性雏体（Exogenous Precursors）究竟是什么（或是谁）？——最终一切指向了权利代表的……</pre>
 
- [1]: https://image.ingresscode.cn/2017/09/302876244695843335.png
+ [1]: /static/2017/09/302876244695843335.png

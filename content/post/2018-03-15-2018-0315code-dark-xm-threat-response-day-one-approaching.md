@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-03-15T05:15:28+00:00
 url: /blog/2018/03/15/2018-0315code-dark-xm-threat-response-day-one-approaching/
-featured_image: https://image.ingresscode.cn/2018/03/0316DarkXMThreat.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/03/0316DarkXMThreat.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "83"
 categories:

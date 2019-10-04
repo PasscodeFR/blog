@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-04-17T16:00:38+00:00
 url: /blog/2018/04/18/2018-0416code-the-osiris-sequence-a-bridge-to-a-new-universe/
-featured_image: https://image.ingresscode.cn/2018/04/0416TS-OSIRIS-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2018/04/0416TS-OSIRIS-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "329"
 categories:
@@ -58,8 +58,8 @@ Hank Johnson和Akira Tsukasa之间的一段机密对话揭示了“Osiris序列�
 
 <div style="width: 640px;" class="wp-video">
   <!--[if lt IE 9]><![endif]-->
-  &lt;video class="wp-video-shortcode" id="video-1654-1" width="640" height="360" preload="metadata" controls="controls">&lt;source type="video/mp4" src="https://image.ingresscode.cn/2018/04/The-Osiris-Sequence_-A-New-Ingress-Universe.mp4?_=1" />
+  &lt;video class="wp-video-shortcode" id="video-1654-1" width="640" height="360" preload="metadata" controls="controls">&lt;source type="video/mp4" src="/static/2018/04/The-Osiris-Sequence_-A-New-Ingress-Universe.mp4?_=1" />
   
-  <a href="https://image.ingresscode.cn/2018/04/The-Osiris-Sequence_-A-New-Ingress-Universe.mp4">https://image.ingresscode.cn/2018/04/The-Osiris-Sequence_-A-New-Ingress-Universe.mp4</a>&lt;/video>
+  <a href="/static/2018/04/The-Osiris-Sequence_-A-New-Ingress-Universe.mp4">/static/2018/04/The-Osiris-Sequence_-A-New-Ingress-Universe.mp4</a>&lt;/video>
 </div>
 </pre>

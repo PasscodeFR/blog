@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/TimeAndPlace-700x220.jpg
 views:
   - "13"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/TimeAndPlace.jpg
+  - /static/2017/06/TimeAndPlace.jpg
 categories:
   - BLOGcode
   - 已解决
@@ -33,7 +33,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <img class="alignnone size-full wp-image-143" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/1-6.jpg" alt="" width="306" height="726" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/1-6.jpg 306w, https://www.ingresscode.cn/wp-content/uploads/2017/06/1-6-126x300.jpg 126w" sizes="(max-width: 306px) 100vw, 306px" />
+  <img class="alignnone size-full wp-image-143" src="/static/2017/06/1-6.jpg" alt="" width="306" height="726" srcset="/static/2017/06/1-6.jpg 306w, /static/2017/06/1-6-126x300.jpg 126w" sizes="(max-width: 306px) 100vw, 306px" />
 </p>
 
 <p style="text-align: center;">

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-30T08:25:41+00:00
 url: /blog/2017/10/30/2017-1030code-details-emerging-funeral-services-for-calvin-scheduled/
-featured_image: https://image.ingresscode.cn/2017/10/1030PhillipsCalvin.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1030PhillipsCalvin.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "77"
 categories:

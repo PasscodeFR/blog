@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-13T17:16:48+00:00
 url: /blog/2017/10/14/2017-1014code-nl-1331-e-operative-report-part-iii/
-featured_image: https://image.ingresscode.cn/2017/10/10141331EReport-3.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/10141331EReport-3.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "38"
 categories:

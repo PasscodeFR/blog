@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-16T15:54:46+00:00
 url: /blog/2017/09/16/2017-0916code-at-the-statue-of-stevie-ray-in-austin/
-featured_image: https://image.ingresscode.cn/2017/09/0916MsgfromAustin-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/09/0916MsgfromAustin-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "33"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-25T02:08:09+00:00
 url: /blog/2017/10/25/2017-1025code-a-secure-location/
-featured_image: https://image.ingresscode.cn/2017/10/1025GetTogether2.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1025GetTogether2.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "84"
 categories:
@@ -57,7 +57,7 @@ foybp9h8c4u
 335位，可以排成67*5，考虑艺术字符
 把点划替换成易于识别的字符
 □●□●□●□●□●□●●□□●●●□●□●□□●□□●□●□●●●□●●●□□●●□●□●□□●□□●●●□●□●□●●●□●□●●□●□●□●□●□●□●□●□□□●□●□●□●□●□●□●□●□●□□●□□●□□□●□●□●□●□●□□□●□●□●□□□●□●●●●□□●□□□●□□●●□□□□●□●□●□●□●□□●□□●□●□□●□□●□□□●●●□●●●□●●●□●□●□●●●□●●●□□●□●□●□□●□□●□□□□□●□●□●□●□●□□●□□●□●□□●□□●□□□●□●□●□●□●□●□●□●□□□●□●□●□□●□●□●□□●□□●□□□□□●□□●□□□●□□□●□□●□●□●●●□□●●□●□●□●□●□●●●□●●●□●●●□●□●
-<a href="https://image.ingresscode.cn/2017/10/00.png"><img class="alignnone size-large wp-image-1125" src="https://image.ingresscode.cn/2017/10/00.png?x-oss-process=image/resize,m_fill,w_1024,h_76" alt="" width="1024" height="76" srcset="https://image.ingresscode.cn/2017/10/00.png 1071w, https://image.ingresscode.cn/2017/10/00.png?x-oss-process=image/resize,m_fill,w_300,h_22 300w, https://image.ingresscode.cn/2017/10/00.png?x-oss-process=image/resize,m_fill,w_768,h_57 768w, https://image.ingresscode.cn/2017/10/00.png?x-oss-process=image/resize,m_fill,w_1024,h_76 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+<a href="/static/2017/10/00.png"><img class="alignnone size-large wp-image-1125" src="/static/2017/10/00.png?x-oss-process=image/resize,m_fill,w_1024,h_76" alt="" width="1024" height="76" srcset="/static/2017/10/00.png 1071w, /static/2017/10/00.png?x-oss-process=image/resize,m_fill,w_300,h_22 300w, /static/2017/10/00.png?x-oss-process=image/resize,m_fill,w_768,h_57 768w, /static/2017/10/00.png?x-oss-process=image/resize,m_fill,w_1024,h_76 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
 <span style="color: #99cc00;"><strong>4XYP7VOYNICHA6U5H</strong></span></pre>
 
 * * *

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-22T14:42:19+00:00
 url: /blog/2017/09/22/2017-0923code-the-owen-murder-mystery/
-featured_image: https://image.ingresscode.cn/2017/09/0922TheOwenMystery.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/0922TheOwenMystery.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "37"
 categories:
@@ -50,7 +50,7 @@ teij
 5vdf4`^p9u9f
 keyword部分是`^，`反向看成类似′的形态，
 ′^<strong>
-<img class="alignnone size-full wp-image-994" src="https://image.ingresscode.cn/2017/09/Again-Repeat.png" alt="" width="150" height="150" />
+<img class="alignnone size-full wp-image-994" src="/static/2017/09/Again-Repeat.png" alt="" width="150" height="150" />
 <span style="color: #99cc00;">5vdf4againp9u9f</span></strong></pre>
 
 * * *

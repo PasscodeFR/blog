@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-04-04T16:00:36+00:00
 url: /blog/2018/04/05/2018-0403code-acolyte-our-goals-is-to-protect-the-purity-of-human-experience/
-featured_image: https://image.ingresscode.cn/2018/04/0403Follow.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/04/0403Follow.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "170"
 categories:
@@ -45,7 +45,7 @@ rbnthrthrunboundedeigfivfourd
 数字缩写换成数字
 <span style="color: #99cc00;"><strong>rbn33unbounded854rd</strong>
 <span style="color: #000000;">接下来把点划都替换成空格，寻找ASCII ART的排列，一共545位，可以排成5行
-</span><a href="https://image.ingresscode.cn/2018/04/0403-1.png"><img class="alignnone size-full wp-image-1620" src="https://image.ingresscode.cn/2018/04/0403-1.png" alt="" width="869" height="77" srcset="https://image.ingresscode.cn/2018/04/0403-1.png 869w, https://image.ingresscode.cn/2018/04/0403-1.png?x-oss-process=image/resize,m_fill,w_300,h_27 300w, https://image.ingresscode.cn/2018/04/0403-1.png?x-oss-process=image/resize,m_fill,w_768,h_68 768w" sizes="(max-width: 869px) 100vw, 869px" /></a>
+</span><a href="/static/2018/04/0403-1.png"><img class="alignnone size-full wp-image-1620" src="/static/2018/04/0403-1.png" alt="" width="869" height="77" srcset="/static/2018/04/0403-1.png 869w, /static/2018/04/0403-1.png?x-oss-process=image/resize,m_fill,w_300,h_27 300w, /static/2018/04/0403-1.png?x-oss-process=image/resize,m_fill,w_768,h_68 768w" sizes="(max-width: 869px) 100vw, 869px" /></a>
 <span style="color: #000000;">被镜像表现的字符
 <span style="color: #99cc00;"><strong>RPP64NUMINOUS967OZ</strong></span></span></span></pre>
 

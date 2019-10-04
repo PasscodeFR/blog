@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-03-29T16:00:54+00:00
 url: /blog/2018/03/30/2018-0327code-an-ancient-civilization-in-the-amazon/
-featured_image: https://image.ingresscode.cn/2018/03/0328Amazon.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/03/0328Amazon.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "109"
 categories:

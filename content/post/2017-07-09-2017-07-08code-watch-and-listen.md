@@ -4,11 +4,11 @@ author: fukkix
 type: post
 date: 2017-07-09T13:41:33+00:00
 url: /blog/2017/07/09/2017-07-08code-watch-and-listen/
-featured_image: https://image.ingresscode.cn/2017/07/Listen.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/Listen.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "27"
 cover:
-  - https://image.ingresscode.cn/2017/07/Listen.jpg
+  - /static/2017/07/Listen.jpg
 categories:
   - BLOGcode
   - 剧情
@@ -25,7 +25,7 @@ qeg87nolnrcc48ddv
 
 <pre><a href="http://investigate.ingress.com/2017/07/09/watch-and-listen/">WATCH AND LISTEN…</a>
 都是17位，考虑三码合一。通过如下图阅读得到三个passcode
- <img class="alignnone size-full wp-image-489" src="https://image.ingresscode.cn/2017/07/code.jpg" alt="" width="776" height="230" srcset="https://image.ingresscode.cn/2017/07/code.jpg 776w, https://image.ingresscode.cn/2017/07/code.jpg?x-oss-process=image/resize,m_fill,w_300,h_89 300w, https://image.ingresscode.cn/2017/07/code.jpg?x-oss-process=image/resize,m_fill,w_768,h_228 768w" sizes="(max-width: 776px) 100vw, 776px" />
+ <img class="alignnone size-full wp-image-489" src="/static/2017/07/code.jpg" alt="" width="776" height="230" srcset="/static/2017/07/code.jpg 776w, /static/2017/07/code.jpg?x-oss-process=image/resize,m_fill,w_300,h_89 300w, /static/2017/07/code.jpg?x-oss-process=image/resize,m_fill,w_768,h_228 768w" sizes="(max-width: 776px) 100vw, 776px" />
 <span style="color: #99cc00;"><strong>qvs82control429dj</strong></span>
 <span style="color: #99cc00;"><strong>eez47balance986ev</strong></span>
 <span style="color: #99cc00;"><strong>2ggu7nianticw4d7u（旧格式）
@@ -50,7 +50,7 @@ qeg87nolnrcc48ddv
 
 <span style="color: #999999;"><em> ——PAC</em></span>
 
-<a href="https://image.ingresscode.cn/2017/07/Listen.jpg"><img class="alignnone size-large wp-image-483" src="https://image.ingresscode.cn/2017/07/Listen.jpg?x-oss-process=image/resize,m_fill,w_663,h_1024" alt="" width="663" height="1024" srcset="https://image.ingresscode.cn/2017/07/Listen.jpg 1800w, https://image.ingresscode.cn/2017/07/Listen.jpg?x-oss-process=image/resize,m_fill,w_194,h_300 194w, https://image.ingresscode.cn/2017/07/Listen.jpg?x-oss-process=image/resize,m_fill,w_768,h_1187 768w, https://image.ingresscode.cn/2017/07/Listen.jpg?x-oss-process=image/resize,m_fill,w_663,h_1024 663w" sizes="(max-width: 663px) 100vw, 663px" /></a>
+<a href="/static/2017/07/Listen.jpg"><img class="alignnone size-large wp-image-483" src="/static/2017/07/Listen.jpg?x-oss-process=image/resize,m_fill,w_663,h_1024" alt="" width="663" height="1024" srcset="/static/2017/07/Listen.jpg 1800w, /static/2017/07/Listen.jpg?x-oss-process=image/resize,m_fill,w_194,h_300 194w, /static/2017/07/Listen.jpg?x-oss-process=image/resize,m_fill,w_768,h_1187 768w, /static/2017/07/Listen.jpg?x-oss-process=image/resize,m_fill,w_663,h_1024 663w" sizes="(max-width: 663px) 100vw, 663px" /></a>
 Tycho的一张图被放出，图上的隐藏消息有：
 +3 L dp qrw txdolilhg wr whvwlib derxw Vkdshu Wkhrub, exw L nqrz wkdw vrph sodfhv duh vshfldo. Juhdw Flwlhv duh qhduob dozdbv irxqghg rq sodfhv wkdw duh vwurqj zlwk d fhuwdlq wbsh ri AP. qldqwlfsurmhfw.frp
 通过移位3（ROT23）得到
@@ -59,6 +59,6 @@ I am not qualified to testify about Shaper Theory, but I know that some places a
 
 图中还有一个地图块，显示的是阿富汗的Kabul
 
-<a href="https://image.ingresscode.cn/2017/07/20170709200825.png"><img class="alignnone size-full wp-image-486" src="https://image.ingresscode.cn/2017/07/20170709200825.png" alt="" width="633" height="553" srcset="https://image.ingresscode.cn/2017/07/20170709200825.png 633w, https://image.ingresscode.cn/2017/07/20170709200825.png?x-oss-process=image/resize,m_fill,w_300,h_262 300w" sizes="(max-width: 633px) 100vw, 633px" /></a></pre>
+<a href="/static/2017/07/20170709200825.png"><img class="alignnone size-full wp-image-486" src="/static/2017/07/20170709200825.png" alt="" width="633" height="553" srcset="/static/2017/07/20170709200825.png 633w, /static/2017/07/20170709200825.png?x-oss-process=image/resize,m_fill,w_300,h_262 300w" sizes="(max-width: 633px) 100vw, 633px" /></a></pre>
 
 &nbsp;

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-07-26T16:06:27+00:00
 url: /blog/2017/07/27/2017-07-25code-the-history-of-tycho-part-iii/
-featured_image: https://image.ingresscode.cn/2017/07/TheHistoryofTychoIII.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/TheHistoryofTychoIII.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "35"
 categories:
@@ -56,7 +56,7 @@ ght=eight
 5ccx5 WQnh0diWkxk s8z6q
 通过搜索“<strong>WQnh0diWkxk</strong>”得到一个youtube链接
 <span style="color: #808080;"><em><a href="https://www.youtube.com/watch?v=WQnh0diWkxk">https://www.youtube.com/watch?v=WQnh0diWkxk</a>
-<a href="https://image.ingresscode.cn/2017/07/0725.jpg"><img class="alignnone size-full wp-image-616" src="https://image.ingresscode.cn/2017/07/0725.jpg" alt="" width="852" height="595" srcset="https://image.ingresscode.cn/2017/07/0725.jpg 852w, https://image.ingresscode.cn/2017/07/0725.jpg?x-oss-process=image/resize,m_fill,w_300,h_210 300w, https://image.ingresscode.cn/2017/07/0725.jpg?x-oss-process=image/resize,m_fill,w_768,h_536 768w" sizes="(max-width: 852px) 100vw, 852px" /></a>
+<a href="/static/2017/07/0725.jpg"><img class="alignnone size-full wp-image-616" src="/static/2017/07/0725.jpg" alt="" width="852" height="595" srcset="/static/2017/07/0725.jpg 852w, /static/2017/07/0725.jpg?x-oss-process=image/resize,m_fill,w_300,h_210 300w, /static/2017/07/0725.jpg?x-oss-process=image/resize,m_fill,w_768,h_536 768w" sizes="(max-width: 852px) 100vw, 852px" /></a>
 
 G-H-O-S-T
 Ghost ghost ghost

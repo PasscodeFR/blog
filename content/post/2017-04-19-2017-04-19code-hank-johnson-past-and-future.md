@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/PastandFuture-700x220.jpg
 views:
   - "17"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/PastandFuture.jpg
+  - /static/2017/06/PastandFuture.jpg
 categories:
   - BLOGcode
   - 已解决

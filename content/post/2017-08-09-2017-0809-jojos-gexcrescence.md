@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-08T17:55:19+00:00
 url: /blog/2017/08/09/2017-0809-jojos-gexcrescence/
-featured_image: https://image.ingresscode.cn/2017/08/excrescence.png?x-oss-process=image/resize,m_fill,w_596,h_220
+featured_image: /static/2017/08/excrescence.png?x-oss-process=image/resize,m_fill,w_596,h_220
 views:
   - "45"
 categories:

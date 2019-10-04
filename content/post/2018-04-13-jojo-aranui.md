@@ -4,7 +4,7 @@ author: mathlover
 type: post
 date: 2018-04-12T16:00:28+00:00
 url: /blog/2018/04/13/jojo-aranui/
-featured_image: https://image.ingresscode.cn/2018/04/ARANUI.jpg?x-oss-process=image/resize,m_fill,w_598,h_220
+featured_image: /static/2018/04/ARANUI.jpg?x-oss-process=image/resize,m_fill,w_598,h_220
 views:
   - "167"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-10T01:39:19+00:00
 url: /blog/2018/01/10/2018-0110code-the-redacted-report-part-8/
-featured_image: https://image.ingresscode.cn/2018/01/0110RedactedReport8-1.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/0110RedactedReport8-1.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "69"
 categories:

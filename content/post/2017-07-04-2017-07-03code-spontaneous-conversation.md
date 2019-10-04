@@ -4,7 +4,7 @@ author: claire9
 type: post
 date: 2017-07-03T17:55:27+00:00
 url: /blog/2017/07/04/2017-07-03code-spontaneous-conversation/
-featured_image: https://image.ingresscode.cn/2017/07/SpontaneousConversation-e1499072457468.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/SpontaneousConversation-e1499072457468.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "50"
 categories:
@@ -59,7 +59,7 @@ Base64解码
 </strong>一共136个字符，能被8整除
 观察出现的字符，发现使用到的按键与键盘上如图红线划出的两排按键一致
 
-<img class="alignnone size-medium wp-image-411" src="https://image.ingresscode.cn/2017/07/KBUSA_WB_grande-copy.png?x-oss-process=image/resize,m_fill,w_300,h_100" alt="" width="300" height="100" srcset="https://image.ingresscode.cn/2017/07/KBUSA_WB_grande-copy.png 600w, https://image.ingresscode.cn/2017/07/KBUSA_WB_grande-copy.png?x-oss-process=image/resize,m_fill,w_300,h_100 300w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-411" src="/static/2017/07/KBUSA_WB_grande-copy.png?x-oss-process=image/resize,m_fill,w_300,h_100" alt="" width="300" height="100" srcset="/static/2017/07/KBUSA_WB_grande-copy.png 600w, /static/2017/07/KBUSA_WB_grande-copy.png?x-oss-process=image/resize,m_fill,w_300,h_100 300w" sizes="(max-width: 300px) 100vw, 300px" />
 猜测为将字符转换为136位01序列，再八位一组二进制解码
 在尝试了区分是否按住shift（大小写）等不同的01替换方式后，得出正确的替换方式为
 1qaz!QAZ = 1（左边一排按键与1一致）

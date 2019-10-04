@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-02-01T02:49:47+00:00
 url: /blog/2018/02/01/2018-0201code-the-influencers/
-featured_image: https://image.ingresscode.cn/2018/02/0201Influence.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/02/0201Influence.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "73"
 categories:

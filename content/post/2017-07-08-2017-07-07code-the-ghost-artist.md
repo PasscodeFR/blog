@@ -4,9 +4,9 @@ author: fukkix
 type: post
 date: 2017-07-07T19:11:06+00:00
 url: /blog/2017/07/08/2017-07-07code-the-ghost-artist/
-featured_image: https://image.ingresscode.cn/2017/07/2017-0707GhostArtist.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/2017-0707GhostArtist.png?x-oss-process=image/resize,m_fill,w_700,h_220
 cover:
-  - https://image.ingresscode.cn/2017/07/2017-0707GhostArtist.png
+  - /static/2017/07/2017-0707GhostArtist.png
 views:
   - "43"
 categories:
@@ -65,7 +65,7 @@ body替换为mind（glyph联想）
 Shaw Henson对Jay Phillips来信的回复说起Tycho在官方记录显示2012年就被收监了，但是16年初在他的G+上还有内容更新，关于漫画《Ingress：Origins》项目的事。这人究竟通过什么方法越过NIA的监视出现在网络上，他是个骗子还是本人的同伙所为，需要清楚调查一番。
 
 Tycho是个画家，官方漫画基本出自他手。
-<a href="https://image.ingresscode.cn/2017/07/tycho.png"><img class="alignnone size-full wp-image-472" src="https://image.ingresscode.cn/2017/07/tycho.png" alt="" width="296" height="425" srcset="https://image.ingresscode.cn/2017/07/tycho.png 296w, https://image.ingresscode.cn/2017/07/tycho.png?x-oss-process=image/resize,m_fill,w_209,h_300 209w" sizes="(max-width: 296px) 100vw, 296px" /></a>
+<a href="/static/2017/07/tycho.png"><img class="alignnone size-full wp-image-472" src="/static/2017/07/tycho.png" alt="" width="296" height="425" srcset="/static/2017/07/tycho.png 296w, /static/2017/07/tycho.png?x-oss-process=image/resize,m_fill,w_209,h_300 209w" sizes="(max-width: 296px) 100vw, 296px" /></a>
 
 看来是在寻找新的13MAGNUS人选了。
 </pre>

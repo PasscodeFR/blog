@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-07-16T16:00:36+00:00
 url: /blog/2018/07/17/2018-0715code-operation-cassandra-anomaly-intel/
-featured_image: https://image.ingresscode.cn/2018/07/0715OPERATION-CASSANDRA-ANOMALY-INTEL-1.jpg?x-oss-process=image/resize,m_fill,w_700,h_217
+featured_image: /static/2018/07/0715OPERATION-CASSANDRA-ANOMALY-INTEL-1.jpg?x-oss-process=image/resize,m_fill,w_700,h_217
 views:
   - "90"
 categories:
@@ -19,7 +19,7 @@ categories:
 
 * * *
 
-[<img class="alignnone size-large wp-image-1775" src="https://image.ingresscode.cn/2018/07/0715Sapporo-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="https://image.ingresscode.cn/2018/07/0715Sapporo-Cassandra-July28.jpg 3000w, https://image.ingresscode.cn/2018/07/0715Sapporo-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, https://image.ingresscode.cn/2018/07/0715Sapporo-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, https://image.ingresscode.cn/2018/07/0715Sapporo-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" />][1]
+[<img class="alignnone size-large wp-image-1775" src="/static/2018/07/0715Sapporo-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="/static/2018/07/0715Sapporo-Cassandra-July28.jpg 3000w, /static/2018/07/0715Sapporo-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, /static/2018/07/0715Sapporo-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, /static/2018/07/0715Sapporo-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" />][1]
 
 <pre><span style="color: #ff9900;"><em><strong>SAPPORO
 </strong></em></span>
@@ -64,7 +64,7 @@ azoniseingresstwfotwrd
 
 * * *
 
-[<img class="alignnone size-large wp-image-1772" src="https://image.ingresscode.cn/2018/07/0715Male-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="https://image.ingresscode.cn/2018/07/0715Male-Cassandra-July28.jpg 3000w, https://image.ingresscode.cn/2018/07/0715Male-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, https://image.ingresscode.cn/2018/07/0715Male-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, https://image.ingresscode.cn/2018/07/0715Male-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" />][2]
+[<img class="alignnone size-large wp-image-1772" src="/static/2018/07/0715Male-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="/static/2018/07/0715Male-Cassandra-July28.jpg 3000w, /static/2018/07/0715Male-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, /static/2018/07/0715Male-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, /static/2018/07/0715Male-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" />][2]
 
 <pre><em><span style="color: #ff9900;"><strong>MALE
 </strong></span></em><strong>uzlulhvsrwwvmvrmrgdwc
@@ -107,7 +107,7 @@ ASCII转文本
 
 * * *
 
-<pre><a href="https://image.ingresscode.cn/2018/07/0715Warsaw-Cassandra-July28.jpg"><img class="alignnone size-large wp-image-1776" src="https://image.ingresscode.cn/2018/07/0715Warsaw-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="https://image.ingresscode.cn/2018/07/0715Warsaw-Cassandra-July28.jpg 3000w, https://image.ingresscode.cn/2018/07/0715Warsaw-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, https://image.ingresscode.cn/2018/07/0715Warsaw-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, https://image.ingresscode.cn/2018/07/0715Warsaw-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" /></a>
+<pre><a href="/static/2018/07/0715Warsaw-Cassandra-July28.jpg"><img class="alignnone size-large wp-image-1776" src="/static/2018/07/0715Warsaw-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="/static/2018/07/0715Warsaw-Cassandra-July28.jpg 3000w, /static/2018/07/0715Warsaw-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, /static/2018/07/0715Warsaw-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, /static/2018/07/0715Warsaw-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" /></a>
 <span style="color: #ff9900;"><em><strong>WARSAW</strong></em></span>
 <strong>efdeefee7aea8ef8ee8eebefeeddefeaaabaaedfee6</strong>
 同样，已经很眼熟了，hexatbash
@@ -145,7 +145,7 @@ atbash数字和字母
 
 * * *
 
-[<img class="alignnone size-large wp-image-1773" src="https://image.ingresscode.cn/2018/07/0715Marseille-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="https://image.ingresscode.cn/2018/07/0715Marseille-Cassandra-July28.jpg 3000w, https://image.ingresscode.cn/2018/07/0715Marseille-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, https://image.ingresscode.cn/2018/07/0715Marseille-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, https://image.ingresscode.cn/2018/07/0715Marseille-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" />][3]
+[<img class="alignnone size-large wp-image-1773" src="/static/2018/07/0715Marseille-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="/static/2018/07/0715Marseille-Cassandra-July28.jpg 3000w, /static/2018/07/0715Marseille-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, /static/2018/07/0715Marseille-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, /static/2018/07/0715Marseille-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" />][3]
 
 <pre><strong><em><span style="color: #ff9900;">MARSEILLE</span></em>
 
@@ -178,7 +178,7 @@ w6i3
 
 * * *
 
-<pre><a href="https://image.ingresscode.cn/2018/07/0715SanDiego-Cassandra-July28.jpg"><img class="alignnone size-large wp-image-1774" src="https://image.ingresscode.cn/2018/07/0715SanDiego-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="https://image.ingresscode.cn/2018/07/0715SanDiego-Cassandra-July28.jpg 3000w, https://image.ingresscode.cn/2018/07/0715SanDiego-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, https://image.ingresscode.cn/2018/07/0715SanDiego-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, https://image.ingresscode.cn/2018/07/0715SanDiego-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" /></a>
+<pre><a href="/static/2018/07/0715SanDiego-Cassandra-July28.jpg"><img class="alignnone size-large wp-image-1774" src="/static/2018/07/0715SanDiego-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="/static/2018/07/0715SanDiego-Cassandra-July28.jpg 3000w, /static/2018/07/0715SanDiego-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, /static/2018/07/0715SanDiego-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, /static/2018/07/0715SanDiego-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" /></a>
 <span style="color: #ff9900;"><em><strong>SAN DIEGO
 
 </strong></em><span style="color: #000000;"><strong>3o8#ku2#fm2vb8nw</strong>
@@ -216,7 +216,7 @@ atbash</span>
 
 * * *
 
-<pre><a href="https://image.ingresscode.cn/2018/07/0715Boston-Cassandra-July28.jpg"><img class="alignnone size-large wp-image-1771" src="https://image.ingresscode.cn/2018/07/0715Boston-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="https://image.ingresscode.cn/2018/07/0715Boston-Cassandra-July28.jpg 3000w, https://image.ingresscode.cn/2018/07/0715Boston-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, https://image.ingresscode.cn/2018/07/0715Boston-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, https://image.ingresscode.cn/2018/07/0715Boston-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" /></a>
+<pre><a href="/static/2018/07/0715Boston-Cassandra-July28.jpg"><img class="alignnone size-large wp-image-1771" src="/static/2018/07/0715Boston-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024" alt="" width="931" height="1024" srcset="/static/2018/07/0715Boston-Cassandra-July28.jpg 3000w, /static/2018/07/0715Boston-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_273,h_300 273w, /static/2018/07/0715Boston-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_768,h_845 768w, /static/2018/07/0715Boston-Cassandra-July28.jpg?x-oss-process=image/resize,m_fill,w_931,h_1024 931w" sizes="(max-width: 931px) 100vw, 931px" /></a>
 <span style="color: #ff9900;"><em><strong>BOSTON</strong></em></span>
 
 <strong>quvgehollandhfdoh</strong>
@@ -284,6 +284,6 @@ cmbsenijohnsonsisinijs
 
 <audio style="display: none;" controls="controls"></audio>
 
- [1]: https://image.ingresscode.cn/2018/07/0715Sapporo-Cassandra-July28.jpg
- [2]: https://image.ingresscode.cn/2018/07/0715Male-Cassandra-July28.jpg
- [3]: https://image.ingresscode.cn/2018/07/0715Marseille-Cassandra-July28.jpg
+ [1]: /static/2018/07/0715Sapporo-Cassandra-July28.jpg
+ [2]: /static/2018/07/0715Male-Cassandra-July28.jpg
+ [3]: /static/2018/07/0715Marseille-Cassandra-July28.jpg

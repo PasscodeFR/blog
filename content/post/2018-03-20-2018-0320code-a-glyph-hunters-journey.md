@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-03-20T02:22:50+00:00
 url: /blog/2018/03/20/2018-0320code-a-glyph-hunters-journey/
-featured_image: https://image.ingresscode.cn/2018/03/0320GlyphJournal.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/03/0320GlyphJournal.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "67"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-23T04:52:19+00:00
 url: /blog/2017/11/23/2017-1123code-hanks-global-intel-challenge/
-featured_image: https://image.ingresscode.cn/2017/11/1123FieldOps.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1123FieldOps.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "76"
 categories:

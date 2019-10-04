@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-05-14T16:00:32+00:00
 url: /blog/2018/05/15/2018-0512-code-hank-johnson-rpe-signups-for-camp-navarro-schloss-kaltenberg/
-featured_image: https://image.ingresscode.cn/2018/05/0512nia-explore-rpes.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/05/0512nia-explore-rpes.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "169"
 categories:

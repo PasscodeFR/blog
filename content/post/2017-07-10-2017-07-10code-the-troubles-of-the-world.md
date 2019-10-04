@@ -4,7 +4,7 @@ author: claire9
 type: post
 date: 2017-07-10T09:35:58+00:00
 url: /blog/2017/07/10/2017-07-10code-the-troubles-of-the-world/
-featured_image: https://image.ingresscode.cn/2017/07/TheTroublesoftheWorld.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/TheTroublesoftheWorld.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "55"
 categories:

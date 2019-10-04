@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-09T02:43:29+00:00
 url: /blog/2018/01/09/2018-0109code-the-worth-of-truth/
-featured_image: https://image.ingresscode.cn/2018/01/0109Unbounded-470x260.png?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2018/01/0109Unbounded-470x260.png?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "71"
 categories:

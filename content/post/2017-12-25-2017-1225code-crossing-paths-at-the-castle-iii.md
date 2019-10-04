@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-25T01:57:35+00:00
 url: /blog/2017/12/25/2017-1225code-crossing-paths-at-the-castle-iii/
-featured_image: https://image.ingresscode.cn/2017/12/1225Castle-3-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/12/1225Castle-3-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "43"
 categories:

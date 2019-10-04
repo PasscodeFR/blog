@@ -7,7 +7,7 @@ url: /blog/2017/06/17/2017-06-17-jojos-g-wiegand-interface/
 views:
   - "68"
 cover:
-  - https://image.ingresscode.cn/2017/07/20170617.png
+  - /static/2017/07/20170617.png
 categories:
   - WOTDcode
   - 已解决

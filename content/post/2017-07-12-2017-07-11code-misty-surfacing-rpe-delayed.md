@@ -4,7 +4,7 @@ author: claire9
 type: post
 date: 2017-07-12T13:29:50+00:00
 url: /blog/2017/07/12/2017-07-11code-misty-surfacing-rpe-delayed/
-featured_image: https://image.ingresscode.cn/2017/07/MistyH-768x560.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/MistyH-768x560.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "51"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-22T11:46:22+00:00
 url: /blog/2017/09/22/2017-0922code-into-the-mindpalace/
-featured_image: https://image.ingresscode.cn/2017/09/0922IntoMistysMindPalace-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/09/0922IntoMistysMindPalace-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "29"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-07-20T16:17:37+00:00
 url: /blog/2017/07/21/2017-07-21code-the-anatomy-of-a-tycho-vision/
-featured_image: https://image.ingresscode.cn/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "26"
 categories:
@@ -75,7 +75,7 @@ ROT 20
 * * *
 
 <pre><a href="http://investigate.ingress.com/2017/07/21/the-anatomy-of-a-tycho-vision/">THE ANATOMY OF A TYCHO VISION</a>
-<a href="https://image.ingresscode.cn/2017/07/0718span.jpg"><img class="alignnone size-large wp-image-577" src="https://image.ingresscode.cn/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_662,h_1024" alt="" width="662" height="1024" srcset="https://image.ingresscode.cn/2017/07/0718span.jpg 1400w, https://image.ingresscode.cn/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_194,h_300 194w, https://image.ingresscode.cn/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_768,h_1187 768w, https://image.ingresscode.cn/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_662,h_1024 662w" sizes="(max-width: 662px) 100vw, 662px" /></a>
+<a href="/static/2017/07/0718span.jpg"><img class="alignnone size-large wp-image-577" src="/static/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_662,h_1024" alt="" width="662" height="1024" srcset="/static/2017/07/0718span.jpg 1400w, /static/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_194,h_300 194w, /static/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_768,h_1187 768w, /static/2017/07/0718span.jpg?x-oss-process=image/resize,m_fill,w_662,h_1024 662w" sizes="(max-width: 662px) 100vw, 662px" /></a>
 特工Kodamasmiles注意到最近围绕着Tycho的话题层出不穷，她仔细分析了2012年Comic-con上Tycho首次展出的那五张画作景象的意义。
 
 <span style="color: #999999;"><em>最近关于Tycho的消息挺多的……</em></span>

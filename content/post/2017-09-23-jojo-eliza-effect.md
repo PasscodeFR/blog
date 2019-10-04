@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-23T03:38:18+00:00
 url: /blog/2017/09/23/jojo-eliza-effect/
-featured_image: https://image.ingresscode.cn/2017/09/ELIZA-EFFECT.jpg?x-oss-process=image/resize,m_fill,w_573,h_220
+featured_image: /static/2017/09/ELIZA-EFFECT.jpg?x-oss-process=image/resize,m_fill,w_573,h_220
 views:
   - "53"
 categories:

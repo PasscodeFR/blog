@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-31T15:34:13+00:00
 url: /blog/2017/12/31/2017-1231code-endings-and-beginnings/
-featured_image: https://image.ingresscode.cn/2018/01/12312018.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/12312018.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "75"
 categories:

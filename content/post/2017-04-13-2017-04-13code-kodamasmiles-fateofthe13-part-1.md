@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/1-1-700x220.png
 views:
   - "10"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/1-1.png
+  - /static/2017/06/1-1.png
 categories:
   - BLOGcode
   - 已解决
@@ -92,7 +92,7 @@ categories:
   今天文章是全球碎片战后KODAMASMILES报道的视频第一部分，其中藏着一个code，直接可兑换
 </p>
 
-<img class="size-full wp-image-135 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/1-5.jpg" alt="" width="588" height="358" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/1-5.jpg 588w, https://www.ingresscode.cn/wp-content/uploads/2017/06/1-5-300x183.jpg 300w" sizes="(max-width: 588px) 100vw, 588px" />
+<img class="size-full wp-image-135 aligncenter" src="/static/2017/06/1-5.jpg" alt="" width="588" height="358" srcset="/static/2017/06/1-5.jpg 588w, /static/2017/06/1-5-300x183.jpg 300w" sizes="(max-width: 588px) 100vw, 588px" />
 
 <p style="text-align: center;">
   <span style="color: #99cc00;"><strong>inveniri2he69ar3（永久码）</strong></span>

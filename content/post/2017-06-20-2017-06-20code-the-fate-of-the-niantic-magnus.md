@@ -6,7 +6,7 @@ date: 2017-06-20T07:19:48+00:00
 url: /blog/2017/06/20/2017-06-20code-the-fate-of-the-niantic-magnus/
 featured_image: /wp-content/uploads/2017/06/Fateofthe12-700x220.jpg
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/Fateofthe12.jpg
+  - /static/2017/06/Fateofthe12.jpg
 views:
   - "58"
 categories:

@@ -4,11 +4,11 @@ author: fukkix
 type: post
 date: 2017-06-22T02:14:26+00:00
 url: /blog/2017/06/22/2017-06-23code-the-first-agent-olympiad/
-featured_image: https://image.ingresscode.cn/2017/06/olympiad-768x539.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/06/olympiad-768x539.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "50"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/olympiad-768x539.jpg
+  - /static/2017/06/olympiad-768x539.jpg
 categories:
   - BLOGcode
   - 剧情

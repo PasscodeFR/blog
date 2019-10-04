@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-18T15:03:41+00:00
 url: /blog/2018/01/18/2017-0118code-quantum-capsule-deployment/
-featured_image: https://image.ingresscode.cn/2018/01/0118QuantumCapsule.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/0118QuantumCapsule.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "88"
 categories:

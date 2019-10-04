@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-13T12:24:53+00:00
 url: /blog/2017/08/13/2017-0813code-closer-to-the-source/
-featured_image: https://image.ingresscode.cn/2017/08/0813ChaoticMatter.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/08/0813ChaoticMatter.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "28"
 categories:

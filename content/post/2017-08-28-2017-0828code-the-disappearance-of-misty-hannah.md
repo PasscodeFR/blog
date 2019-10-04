@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-28T07:03:38+00:00
 url: /blog/2017/08/28/2017-0828code-the-disappearance-of-misty-hannah/
-featured_image: https://image.ingresscode.cn/2017/09/0828tophat.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/0828tophat.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "47"
 categories:

@@ -4,7 +4,7 @@ author: ms300
 type: post
 date: 2018-01-26T06:05:41+00:00
 url: /blog/2018/01/26/jojo-hypercathexis/
-featured_image: https://image.ingresscode.cn/2018/01/HYPERCATHEXIS.png?x-oss-process=image/resize,m_fill,w_530,h_220
+featured_image: /static/2018/01/HYPERCATHEXIS.png?x-oss-process=image/resize,m_fill,w_530,h_220
 views:
   - "92"
 categories:

@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/04/Stored-768x484-700x220.jpg
 views:
   - "12"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/04/Stored-768x484.jpg
+  - /static/2017/04/Stored-768x484.jpg
 categories:
   - BLOGcode
   - 已解决
@@ -52,7 +52,7 @@ categories:
   试两两分组后对调
 </p>
 
-<img class="size-full wp-image-121 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/3-3.jpg" alt="" width="787" height="190" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/3-3.jpg 787w, https://www.ingresscode.cn/wp-content/uploads/2017/06/3-3-300x72.jpg 300w, https://www.ingresscode.cn/wp-content/uploads/2017/06/3-3-768x185.jpg 768w" sizes="(max-width: 787px) 100vw, 787px" />
+<img class="size-full wp-image-121 aligncenter" src="/static/2017/06/3-3.jpg" alt="" width="787" height="190" srcset="/static/2017/06/3-3.jpg 787w, /static/2017/06/3-3-300x72.jpg 300w, /static/2017/06/3-3-768x185.jpg 768w" sizes="(max-width: 787px) 100vw, 787px" />
 
 <p style="text-align: center;">
   bexthfibrainwavetweitwud
@@ -118,7 +118,7 @@ categories:
   16位，keyword从6位字符的单词里找，很可能是create
 </p>
 
-<img class="size-full wp-image-120 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/2-5.jpg" alt="" width="344" height="330" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/2-5.jpg 344w, https://www.ingresscode.cn/wp-content/uploads/2017/06/2-5-300x288.jpg 300w" sizes="(max-width: 344px) 100vw, 344px" />
+<img class="size-full wp-image-120 aligncenter" src="/static/2017/06/2-5.jpg" alt="" width="344" height="330" srcset="/static/2017/06/2-5.jpg 344w, /static/2017/06/2-5-300x288.jpg 300w" sizes="(max-width: 344px) 100vw, 344px" />
 
 <p style="text-align: center;">
   从右上开始往左，一列列向下读

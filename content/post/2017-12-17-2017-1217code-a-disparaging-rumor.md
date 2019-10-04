@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-17T04:23:39+00:00
 url: /blog/2017/12/17/2017-1217code-a-disparaging-rumor/
-featured_image: https://image.ingresscode.cn/2017/12/1217DisparagingRumor-768x724.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/12/1217DisparagingRumor-768x724.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "54"
 categories:

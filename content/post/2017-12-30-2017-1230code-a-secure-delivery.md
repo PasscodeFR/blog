@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-30T02:44:38+00:00
 url: /blog/2017/12/30/2017-1230code-a-secure-delivery/
-featured_image: https://image.ingresscode.cn/2018/01/1230SecureDeployment.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/1230SecureDeployment.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "51"
 categories:

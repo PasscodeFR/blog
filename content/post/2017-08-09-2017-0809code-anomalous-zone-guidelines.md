@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-08T16:51:58+00:00
 url: /blog/2017/08/09/2017-0809code-anomalous-zone-guidelines/
-featured_image: https://image.ingresscode.cn/2017/08/0808Caution.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/08/0808Caution.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "40"
 categories:
@@ -34,7 +34,7 @@ ucucxqq6xxuc3cyvuxr8xq3l3ljuxyybt</pre>
 9jru6alliancep7x8y
 alliance（联盟）替换成rebel（反叛）
 因为rebel alliance
-<a href="https://image.ingresscode.cn/2017/08/destroy-empire-join-the-rebel-alliance-before-the-empire-destroys-your-7286258.png"><img class="alignnone size-full wp-image-691" src="https://image.ingresscode.cn/2017/08/destroy-empire-join-the-rebel-alliance-before-the-empire-destroys-your-7286258.png" alt="" width="500" height="706" srcset="https://image.ingresscode.cn/2017/08/destroy-empire-join-the-rebel-alliance-before-the-empire-destroys-your-7286258.png 500w, https://image.ingresscode.cn/2017/08/destroy-empire-join-the-rebel-alliance-before-the-empire-destroys-your-7286258.png?x-oss-process=image/resize,m_fill,w_212,h_300 212w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+<a href="/static/2017/08/destroy-empire-join-the-rebel-alliance-before-the-empire-destroys-your-7286258.png"><img class="alignnone size-full wp-image-691" src="/static/2017/08/destroy-empire-join-the-rebel-alliance-before-the-empire-destroys-your-7286258.png" alt="" width="500" height="706" srcset="/static/2017/08/destroy-empire-join-the-rebel-alliance-before-the-empire-destroys-your-7286258.png 500w, /static/2017/08/destroy-empire-join-the-rebel-alliance-before-the-empire-destroys-your-7286258.png?x-oss-process=image/resize,m_fill,w_212,h_300 212w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 <strong><span style="color: #99cc00;">9jru6rebelp7x8y</span></strong></pre>
 
 * * *

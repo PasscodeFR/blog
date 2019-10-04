@@ -4,7 +4,7 @@ author: ms300
 type: post
 date: 2018-03-28T15:51:24+00:00
 url: /blog/2018/03/28/jojo-rubberduckdebugging/
-featured_image: https://image.ingresscode.cn/2018/03/jojo-4.png?x-oss-process=image/resize,m_fill,w_543,h_220
+featured_image: /static/2018/03/jojo-4.png?x-oss-process=image/resize,m_fill,w_543,h_220
 views:
   - "132"
 categories:

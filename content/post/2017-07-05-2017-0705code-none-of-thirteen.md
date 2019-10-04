@@ -4,9 +4,9 @@ author: fukkix
 type: post
 date: 2017-07-05T14:01:28+00:00
 url: /blog/2017/07/05/2017-0705code-none-of-thirteen/
-featured_image: https://image.ingresscode.cn/2017/07/0705-NoneofThirteen.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/0705-NoneofThirteen.png?x-oss-process=image/resize,m_fill,w_700,h_220
 cover:
-  - https://image.ingresscode.cn/2017/07/0705-NoneofThirteen.png
+  - /static/2017/07/0705-NoneofThirteen.png
 views:
   - "36"
 categories:
@@ -62,7 +62,7 @@ r的位置不变，前后两段分别逆序再拼上
 
 之后他们采用另一条专线继续通话（7月5日记录背景纸颜色由灰变绿）
 
-<a href="https://image.ingresscode.cn/2017/07/2.jpg"><img class="alignnone size-large wp-image-444" src="https://image.ingresscode.cn/2017/07/2.jpg?x-oss-process=image/resize,m_fill,w_1024,h_238" alt="" width="1024" height="238" srcset="https://image.ingresscode.cn/2017/07/2.jpg 1767w, https://image.ingresscode.cn/2017/07/2.jpg?x-oss-process=image/resize,m_fill,w_300,h_70 300w, https://image.ingresscode.cn/2017/07/2.jpg?x-oss-process=image/resize,m_fill,w_768,h_179 768w, https://image.ingresscode.cn/2017/07/2.jpg?x-oss-process=image/resize,m_fill,w_1024,h_238 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+<a href="/static/2017/07/2.jpg"><img class="alignnone size-large wp-image-444" src="/static/2017/07/2.jpg?x-oss-process=image/resize,m_fill,w_1024,h_238" alt="" width="1024" height="238" srcset="/static/2017/07/2.jpg 1767w, /static/2017/07/2.jpg?x-oss-process=image/resize,m_fill,w_300,h_70 300w, /static/2017/07/2.jpg?x-oss-process=image/resize,m_fill,w_768,h_179 768w, /static/2017/07/2.jpg?x-oss-process=image/resize,m_fill,w_1024,h_238 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
 （斜体字疑似ADA出现）
 成员都产生了一种仿佛事情已经发生过又再次经历的感觉，而实际上他们还没经历过，PAC于7月4号转载了一篇关于量子因果不确定性的文章，看上去和成员们的对话内容巧妙的相关联了。
 

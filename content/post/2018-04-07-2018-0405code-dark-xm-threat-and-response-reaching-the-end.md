@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-04-06T16:00:48+00:00
 url: /blog/2018/04/07/2018-0405code-dark-xm-threat-and-response-reaching-the-end/
-featured_image: https://image.ingresscode.cn/2018/04/0405DayFour.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/04/0405DayFour.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "212"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-07-08T17:24:50+00:00
 url: /blog/2017/07/09/2017-07-09jojos-glateral-thinking/
-featured_image: https://image.ingresscode.cn/2017/07/17-07-09LATERAL-THINKING.jpg?x-oss-process=image/resize,m_fill,w_636,h_220
+featured_image: /static/2017/07/17-07-09LATERAL-THINKING.jpg?x-oss-process=image/resize,m_fill,w_636,h_220
 views:
   - "39"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-03T14:56:06+00:00
 url: /blog/2017/09/03/2017-0903code-nl-1331e-research-competition/
-featured_image: https://image.ingresscode.cn/2017/09/09031331eResearch.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/09031331eResearch.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "48"
 categories:

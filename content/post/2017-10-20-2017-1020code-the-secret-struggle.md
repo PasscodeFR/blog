@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-20T01:55:04+00:00
 url: /blog/2017/10/20/2017-1020code-the-secret-struggle/
-featured_image: https://image.ingresscode.cn/2017/10/1020Terminus.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1020Terminus.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "85"
 categories:

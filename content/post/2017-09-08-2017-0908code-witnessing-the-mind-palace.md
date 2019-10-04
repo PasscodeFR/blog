@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-08T05:42:14+00:00
 url: /blog/2017/09/08/2017-0908code-witnessing-the-mind-palace/
-featured_image: https://image.ingresscode.cn/2017/09/0908Watching.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/0908Watching.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "50"
 categories:

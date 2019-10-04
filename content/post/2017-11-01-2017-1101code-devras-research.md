@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-01T07:56:30+00:00
 url: /blog/2017/11/01/2017-1101code-devras-research/
-featured_image: https://image.ingresscode.cn/2017/11/1101SecondHome.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1101SecondHome.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "47"
 categories:

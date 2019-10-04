@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-03-11T02:35:26+00:00
 url: /blog/2018/03/11/2018-0311code-the-gates-of-hell/
-featured_image: https://image.ingresscode.cn/2018/03/0311Pluto.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/03/0311Pluto.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "155"
 categories:

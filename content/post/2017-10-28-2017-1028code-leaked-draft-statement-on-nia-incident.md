@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-28T08:16:02+00:00
 url: /blog/2017/10/28/2017-1028code-leaked-draft-statement-on-nia-incident/
-featured_image: https://image.ingresscode.cn/2017/10/1028DraftStatement.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1028DraftStatement.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "89"
 categories:
@@ -57,7 +57,7 @@ twobdkthrutwowsevb
 数字部分55.921604-3.173271是坐标
 55.921604,-3.173271
 搜索这个坐标
-<a href="https://image.ingresscode.cn/2017/10/1028.jpg"><img class="alignnone size-full wp-image-1136" src="https://image.ingresscode.cn/2017/10/1028.jpg" alt="" width="597" height="694" srcset="https://image.ingresscode.cn/2017/10/1028.jpg 597w, https://image.ingresscode.cn/2017/10/1028.jpg?x-oss-process=image/resize,m_fill,w_258,h_300 258w" sizes="(max-width: 597px) 100vw, 597px" /></a>
+<a href="/static/2017/10/1028.jpg"><img class="alignnone size-full wp-image-1136" src="/static/2017/10/1028.jpg" alt="" width="597" height="694" srcset="/static/2017/10/1028.jpg 597w, /static/2017/10/1028.jpg?x-oss-process=image/resize,m_fill,w_258,h_300 258w" sizes="(max-width: 597px) 100vw, 597px" /></a>
 The Higgs Centre of Thoretical Physics
 keyword是higgs
 <span style="color: #99cc00;"><strong>2bdk3higgsu2w7b</strong></span></pre>

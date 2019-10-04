@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-04T10:03:49+00:00
 url: /blog/2017/08/04/2017-0804code-a-symbiotic-relationship/
-featured_image: https://image.ingresscode.cn/2017/08/0804Symbiotic.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/08/0804Symbiotic.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "39"
 categories:
@@ -107,6 +107,6 @@ MISTY:所有的远见者都爱玩幻想。
 TYCHO:一种共生关系。
 
 <span style="color: #999999;"><em>（配图对话的背景是一张视错觉图像，处理后如下）</em></span>
-<a href="https://image.ingresscode.cn/2017/08/0804Symbiotic2.jpg"><img class="alignnone size-large wp-image-669" src="https://image.ingresscode.cn/2017/08/0804Symbiotic2.jpg?x-oss-process=image/resize,m_fill,w_733,h_1024" alt="" width="733" height="1024" srcset="https://image.ingresscode.cn/2017/08/0804Symbiotic2.jpg 1400w, https://image.ingresscode.cn/2017/08/0804Symbiotic2.jpg?x-oss-process=image/resize,m_fill,w_215,h_300 215w, https://image.ingresscode.cn/2017/08/0804Symbiotic2.jpg?x-oss-process=image/resize,m_fill,w_768,h_1074 768w, https://image.ingresscode.cn/2017/08/0804Symbiotic2.jpg?x-oss-process=image/resize,m_fill,w_733,h_1024 733w" sizes="(max-width: 733px) 100vw, 733px" /></a>
+<a href="/static/2017/08/0804Symbiotic2.jpg"><img class="alignnone size-large wp-image-669" src="/static/2017/08/0804Symbiotic2.jpg?x-oss-process=image/resize,m_fill,w_733,h_1024" alt="" width="733" height="1024" srcset="/static/2017/08/0804Symbiotic2.jpg 1400w, /static/2017/08/0804Symbiotic2.jpg?x-oss-process=image/resize,m_fill,w_215,h_300 215w, /static/2017/08/0804Symbiotic2.jpg?x-oss-process=image/resize,m_fill,w_768,h_1074 768w, /static/2017/08/0804Symbiotic2.jpg?x-oss-process=image/resize,m_fill,w_733,h_1024 733w" sizes="(max-width: 733px) 100vw, 733px" /></a>
 <span style="color: #999999;"><em>灵感似乎来源于Charles Allan Gilbert（查尔斯·艾伦·吉尔伯特）1892年创作的名画《All is vanity》</em></span>
-<a href="https://image.ingresscode.cn/2017/08/08047bece8140819.jpg"><img class="alignnone size-full wp-image-670" src="https://image.ingresscode.cn/2017/08/08047bece8140819.jpg" alt="" width="525" height="800" srcset="https://image.ingresscode.cn/2017/08/08047bece8140819.jpg 525w, https://image.ingresscode.cn/2017/08/08047bece8140819.jpg?x-oss-process=image/resize,m_fill,w_197,h_300 197w" sizes="(max-width: 525px) 100vw, 525px" /></a></pre>
+<a href="/static/2017/08/08047bece8140819.jpg"><img class="alignnone size-full wp-image-670" src="/static/2017/08/08047bece8140819.jpg" alt="" width="525" height="800" srcset="/static/2017/08/08047bece8140819.jpg 525w, /static/2017/08/08047bece8140819.jpg?x-oss-process=image/resize,m_fill,w_197,h_300 197w" sizes="(max-width: 525px) 100vw, 525px" /></a></pre>

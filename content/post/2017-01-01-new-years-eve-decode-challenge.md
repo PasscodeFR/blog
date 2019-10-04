@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-01-01T15:17:14+00:00
 url: /blog/2017/01/01/new-years-eve-decode-challenge/
-featured_image: https://image.ingresscode.cn/2018/01/2018-IC-decode-challenge.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/01/2018-IC-decode-challenge.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "107"
 categories:
@@ -81,7 +81,7 @@ hqi/jsevensevenhyperfivesixthreerz
 <span style="color: #000000;">解法：
 注意第一位数字都是1-3范围，第二位数字在2-8，考虑手机9键布局
 第一个数代表第二个数包含的字母应选用第几位
-<a href="https://image.ingresscode.cn/2017/06/IMG_2699.jpg"><img class="alignnone wp-image-356 " src="https://image.ingresscode.cn/2017/06/IMG_2699.jpg" alt="" width="310" height="385" srcset="https://image.ingresscode.cn/2017/06/IMG_2699.jpg 647w, https://image.ingresscode.cn/2017/06/IMG_2699.jpg?x-oss-process=image/resize,m_fill,w_242,h_300 242w" sizes="(max-width: 310px) 100vw, 310px" /></a>
+<a href="/static/2017/06/IMG_2699.jpg"><img class="alignnone wp-image-356 " src="/static/2017/06/IMG_2699.jpg" alt="" width="310" height="385" srcset="/static/2017/06/IMG_2699.jpg 647w, /static/2017/06/IMG_2699.jpg?x-oss-process=image/resize,m_fill,w_242,h_300 242w" sizes="(max-width: 310px) 100vw, 310px" /></a>
 数出来是xbgthfokluenifinift
 即<span style="color: #99cc00;"><strong>xbg34klue959ft</strong></span></span></span></pre>
 
@@ -128,7 +128,7 @@ Rn：氡（86）
 <span style="color: #b20000;">......._............._________.._..........._....................__..._.._....__.................__._|.|____......_|___./___.\|.|__.._..._|.|.___.._.__...__._././_.|.||.|.././_.._..._._..._../._`.|.'_.\.\./\././.|_.\.__).|.'_.\|.|.|.|.|/._.\|.'_.\./._`.|.'_.\|.||.|_|.'_.\|.|.|.|.|.|.||.(_|.|.|.|.\.V..V./.___)./.__/|.|.|.|.|_|.|.|.(_).|.|.|.|.(_|.|.(_).|__..._|.(_).|.|_|.|.|_|.|.\__,_|_|.|_|\_/\_/.|____/_____|_|.|_|\__,_|_|\___/|_|.|_|\__,.|\___/...|_|..\___/.\__,_|\__,_|..........................................................|___/................................</span>
 解法：
 从形态上来看是ASCII艺术，570位，按95*6分组
-<a href="https://image.ingresscode.cn/2018/01/7-24.png"><img class="alignnone size-full wp-image-1334" src="https://image.ingresscode.cn/2018/01/7-24.png" alt="" width="957" height="128" srcset="https://image.ingresscode.cn/2018/01/7-24.png 957w, https://image.ingresscode.cn/2018/01/7-24.png?x-oss-process=image/resize,m_fill,w_300,h_40 300w, https://image.ingresscode.cn/2018/01/7-24.png?x-oss-process=image/resize,m_fill,w_768,h_103 768w" sizes="(max-width: 957px) 100vw, 957px" /></a>
+<a href="/static/2018/01/7-24.png"><img class="alignnone size-full wp-image-1334" src="/static/2018/01/7-24.png" alt="" width="957" height="128" srcset="/static/2018/01/7-24.png 957w, /static/2018/01/7-24.png?x-oss-process=image/resize,m_fill,w_300,h_40 300w, /static/2018/01/7-24.png?x-oss-process=image/resize,m_fill,w_768,h_103 768w" sizes="(max-width: 957px) 100vw, 957px" /></a>
 <span style="color: #99cc00;"><strong>ahw32hulong646uu</strong></span></pre>
 
 * * *
@@ -315,7 +315,7 @@ omn62jackland299y
 <span style="color: #b20000;">35 33 43 54 56 31 30 37 34 28 34 26 56 55 53 29 49</span>
 解法：
 用到了BASE64表的直接顺序映射
-<a href="https://image.ingresscode.cn/2018/01/19-24.png"><img class="alignnone wp-image-1337" src="https://image.ingresscode.cn/2018/01/19-24.png" alt="" width="398" height="533" srcset="https://image.ingresscode.cn/2018/01/19-24.png 514w, https://image.ingresscode.cn/2018/01/19-24.png?x-oss-process=image/resize,m_fill,w_224,h_300 224w" sizes="(max-width: 398px) 100vw, 398px" /></a>
+<a href="/static/2018/01/19-24.png"><img class="alignnone wp-image-1337" src="/static/2018/01/19-24.png" alt="" width="398" height="533" srcset="/static/2018/01/19-24.png 514w, /static/2018/01/19-24.png?x-oss-process=image/resize,m_fill,w_224,h_300 224w" sizes="(max-width: 398px) 100vw, 398px" /></a>
 查表得对应的字母是
 jhr24felicia431dx
 这里推测是出题有误，合法格式里数字1不会出现，试得正确数字为5
@@ -353,7 +353,7 @@ BASE64解得
 419 443 419 241 263 433 367 317 419 349 233 241 241 457 449
 解法：
 观察数字都是质数，查质数表，数出每个数所在的位置是位列第几个
-<a href="https://image.ingresscode.cn/2018/01/22-24.png"><img class="alignnone wp-image-1338" src="https://image.ingresscode.cn/2018/01/22-24.png" alt="" width="433" height="252" srcset="https://image.ingresscode.cn/2018/01/22-24.png 649w, https://image.ingresscode.cn/2018/01/22-24.png?x-oss-process=image/resize,m_fill,w_300,h_175 300w" sizes="(max-width: 433px) 100vw, 433px" />
+<a href="/static/2018/01/22-24.png"><img class="alignnone wp-image-1338" src="/static/2018/01/22-24.png" alt="" width="433" height="252" srcset="/static/2018/01/22-24.png 649w, /static/2018/01/22-24.png?x-oss-process=image/resize,m_fill,w_300,h_175 300w" sizes="(max-width: 433px) 100vw, 433px" />
 </a>81 86 81 52 55 84 73 66 81 70 50 52 52 88 87
 ASCII转文本
 <span style="color: #99cc00;"><strong>PUP47SHAPE244WV</strong></span></pre>
@@ -364,7 +364,7 @@ ASCII转文本
 <span style="color: #b20000;">11101 11001 11101 10101 00001 11111 00001 10101 01110 00101 00011 10000 00011 10000 11111 00111 11000</span>
 解法：
 用到了Baudot code（博多式电报机是法国人<span class="ilh-all" data-orig-title="埃米尔‧博多" data-lang-code="en" data-lang-name="英语" data-foreign-title="Émile Baudot"><span class="ilh-page">埃米尔‧博多</span></span>于1874年发明的“<span class="ilh-all" data-orig-title="印字电报机" data-lang-code="en" data-lang-name="英语" data-foreign-title="Printing telegraph"><span class="ilh-page">印字电报机</span></span>”。主要特点是字符用5比特编码，采用两个字符集）
-<a href="https://image.ingresscode.cn/2018/01/23-24.png"><img class="alignnone wp-image-1340" src="https://image.ingresscode.cn/2018/01/23-24.png?x-oss-process=image/resize,m_fill,w_504,h_1024" alt="" width="447" height="908" srcset="https://image.ingresscode.cn/2018/01/23-24.png 652w, https://image.ingresscode.cn/2018/01/23-24.png?x-oss-process=image/resize,m_fill,w_148,h_300 148w, https://image.ingresscode.cn/2018/01/23-24.png?x-oss-process=image/resize,m_fill,w_504,h_1024 504w" sizes="(max-width: 447px) 100vw, 447px" /></a>
+<a href="/static/2018/01/23-24.png"><img class="alignnone wp-image-1340" src="/static/2018/01/23-24.png?x-oss-process=image/resize,m_fill,w_504,h_1024" alt="" width="447" height="908" srcset="/static/2018/01/23-24.png 652w, /static/2018/01/23-24.png?x-oss-process=image/resize,m_fill,w_148,h_300 148w, /static/2018/01/23-24.png?x-oss-process=image/resize,m_fill,w_504,h_1024 504w" sizes="(max-width: 447px) 100vw, 447px" /></a>
 先把原字符串整体反向00011 11100 11111 00001 11000 00001 11000 10100 01110 10101 10000 11111 10000 10101 10111 10011 10111
 对照Baudot得ameoeohcyttyqwq
 再反向
@@ -380,7 +380,7 @@ Congratulation, you reached the last puzzle
 <span style="color: #b20000;">F5 B6 B5 G#4 G#4 G#6 F5 A#6 F5 B6 C#6 C7 A5 D4 A4 E4 F#6 F#5</span>
 解法：
 MIDI音符号码
-<a href="https://image.ingresscode.cn/2018/01/24-24.png"><img class="alignnone size-full wp-image-1342" src="https://image.ingresscode.cn/2018/01/24-24.png" alt="" width="467" height="344" srcset="https://image.ingresscode.cn/2018/01/24-24.png 467w, https://image.ingresscode.cn/2018/01/24-24.png?x-oss-process=image/resize,m_fill,w_300,h_221 300w" sizes="(max-width: 467px) 100vw, 467px" /></a>
+<a href="/static/2018/01/24-24.png"><img class="alignnone size-full wp-image-1342" src="/static/2018/01/24-24.png" alt="" width="467" height="344" srcset="/static/2018/01/24-24.png 467w, /static/2018/01/24-24.png?x-oss-process=image/resize,m_fill,w_300,h_221 300w" sizes="(max-width: 467px) 100vw, 467px" /></a>
 查表得数字
 77 95 83 68 68 92 77 94 77 95 85 96 81 62 69 64 90 78
 实际需要用表中对应数字的上一行替换

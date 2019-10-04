@@ -4,9 +4,9 @@ author: fukkix
 type: post
 date: 2017-07-12T17:06:08+00:00
 url: /blog/2017/07/13/2017-07-13code-contacted-by-jahan/
-featured_image: https://image.ingresscode.cn/2017/07/0713Treasury.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/07/0713Treasury.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 cover:
-  - https://image.ingresscode.cn/2017/07/0713Treasury.jpg
+  - /static/2017/07/0713Treasury.jpg
 views:
   - "38"
 categories:
@@ -75,7 +75,7 @@ Tin Foil Hat：锡箔帽的双关语，指的是有偏执倾向和被迫害妄�
 eightomdfour heightdeighty
 前后缀得到8tom4 h8d8y
 O从glyph角度看是代表all的图形
-<a href="https://image.ingresscode.cn/2017/07/All.png"><img class="alignnone size-full wp-image-546" src="https://image.ingresscode.cn/2017/07/All.png" alt="" width="150" height="150" /></a>
+<a href="/static/2017/07/All.png"><img class="alignnone size-full wp-image-546" src="/static/2017/07/All.png" alt="" width="150" height="150" /></a>
 最后是<span style="color: #99cc00;"><strong>8tom4allh8d8y</strong></span></pre>
 
 * * *

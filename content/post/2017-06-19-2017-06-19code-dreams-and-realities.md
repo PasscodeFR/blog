@@ -6,7 +6,7 @@ date: 2017-06-19T06:00:43+00:00
 url: /blog/2017/06/19/2017-06-19code-dreams-and-realities/
 featured_image: /wp-content/uploads/2017/06/dreams-700x220.png
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/dreams.png
+  - /static/2017/06/dreams.png
 views:
   - "50"
 categories:
@@ -46,7 +46,7 @@ categories:
   按折线排列的形式，一行行间隔写出密文，再三行拼合
 </p>
 
-<img class="aligncenter wp-image-211 size-full" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/21.png" alt="" width="873" height="130" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/21.png 873w, https://www.ingresscode.cn/wp-content/uploads/2017/06/21-300x45.png 300w, https://www.ingresscode.cn/wp-content/uploads/2017/06/21-768x114.png 768w" sizes="(max-width: 873px) 100vw, 873px" />
+<img class="aligncenter wp-image-211 size-full" src="/static/2017/06/21.png" alt="" width="873" height="130" srcset="/static/2017/06/21.png 873w, /static/2017/06/21-300x45.png 300w, /static/2017/06/21-768x114.png 768w" sizes="(max-width: 873px) 100vw, 873px" />
 
 <p style="text-align: center;">
   phueightfiveanswerthreeeightsevenen

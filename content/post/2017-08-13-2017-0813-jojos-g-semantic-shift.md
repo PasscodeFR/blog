@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-12T17:10:33+00:00
 url: /blog/2017/08/13/2017-0813-jojos-g-semantic-shift/
-featured_image: https://image.ingresscode.cn/2017/08/SEMANTICSHIFT.png?x-oss-process=image/resize,m_fill,w_575,h_220
+featured_image: /static/2017/08/SEMANTICSHIFT.png?x-oss-process=image/resize,m_fill,w_575,h_220
 views:
   - "42"
 categories:

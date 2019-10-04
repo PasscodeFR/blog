@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-06-26T11:25:43+00:00
 url: /blog/2017/06/26/2017-06-26jojos-g-doublethink/
-featured_image: https://image.ingresscode.cn/2017/06/IMG_2682.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/06/IMG_2682.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "75"
 categories:

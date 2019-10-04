@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-29T17:10:48+00:00
 url: /blog/2018/01/30/2018-0130code-memory-and-experience/
-featured_image: https://image.ingresscode.cn/2018/02/0130AinDara.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/02/0130AinDara.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "70"
 categories:

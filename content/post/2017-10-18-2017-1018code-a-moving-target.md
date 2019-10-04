@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-18T07:42:31+00:00
 url: /blog/2017/10/18/2017-1018code-a-moving-target/
-featured_image: https://image.ingresscode.cn/2017/10/1018MovingTarget.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1018MovingTarget.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "42"
 categories:

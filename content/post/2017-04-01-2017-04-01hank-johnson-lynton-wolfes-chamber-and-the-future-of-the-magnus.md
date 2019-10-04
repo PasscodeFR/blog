@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/Chamber-700x220.jpg
 views:
   - "28"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/Chamber.jpg
+  - /static/2017/06/Chamber.jpg
 categories:
   - BLOGcode
   - 已解决
@@ -176,7 +176,7 @@ categories:
   询问谷歌后得到这张图：
 </p>
 
-<img class="size-full wp-image-50 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/IMG_1868.png" alt="" width="750" height="1334" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/IMG_1868.png 750w, https://www.ingresscode.cn/wp-content/uploads/2017/06/IMG_1868-169x300.png 169w, https://www.ingresscode.cn/wp-content/uploads/2017/06/IMG_1868-576x1024.png 576w" sizes="(max-width: 750px) 100vw, 750px" />
+<img class="size-full wp-image-50 aligncenter" src="/static/2017/06/IMG_1868.png" alt="" width="750" height="1334" srcset="/static/2017/06/IMG_1868.png 750w, /static/2017/06/IMG_1868-169x300.png 169w, /static/2017/06/IMG_1868-576x1024.png 576w" sizes="(max-width: 750px) 100vw, 750px" />
 
 <p style="text-align: center;">
   MARTIN恰巧在关键词列表里
@@ -186,4 +186,4 @@ categories:
   <span style="color: #99cc00;"><strong>JSM57MARTIN829DW</strong></span>
 </p>
 
-<img class="size-full wp-image-51 aligncenter" src="https://www.ingresscode.cn/wp-content/uploads/2017/06/未标题-1.jpg" alt="" width="805" height="610" srcset="https://www.ingresscode.cn/wp-content/uploads/2017/06/未标题-1.jpg 805w, https://www.ingresscode.cn/wp-content/uploads/2017/06/未标题-1-300x227.jpg 300w, https://www.ingresscode.cn/wp-content/uploads/2017/06/未标题-1-768x582.jpg 768w" sizes="(max-width: 805px) 100vw, 805px" />
+<img class="size-full wp-image-51 aligncenter" src="/static/2017/06/未标题-1.jpg" alt="" width="805" height="610" srcset="/static/2017/06/未标题-1.jpg 805w, /static/2017/06/未标题-1-300x227.jpg 300w, /static/2017/06/未标题-1-768x582.jpg 768w" sizes="(max-width: 805px) 100vw, 805px" />

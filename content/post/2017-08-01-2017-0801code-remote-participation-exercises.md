@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-08-01T03:49:05+00:00
 url: /blog/2017/08/01/2017-0801code-remote-participation-exercises/
-featured_image: https://image.ingresscode.cn/2017/08/0801RPE.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/08/0801RPE.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "30"
 categories:

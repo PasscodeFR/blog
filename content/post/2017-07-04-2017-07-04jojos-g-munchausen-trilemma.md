@@ -4,11 +4,11 @@ author: fukkix
 type: post
 date: 2017-07-04T14:15:38+00:00
 url: /blog/2017/07/04/2017-07-04jojos-g-munchausen-trilemma/
-featured_image: https://image.ingresscode.cn/2017/07/munchausentrilemma.png?x-oss-process=image/resize,m_fill,w_638,h_220
+featured_image: /static/2017/07/munchausentrilemma.png?x-oss-process=image/resize,m_fill,w_638,h_220
 views:
   - "50"
 cover:
-  - https://image.ingresscode.cn/2017/07/munchausentrilemma.png
+  - /static/2017/07/munchausentrilemma.png
 categories:
   - WOTDcode
   - 未解

@@ -4,7 +4,7 @@ author: mathlover
 type: post
 date: 2018-04-11T16:00:36+00:00
 url: /blog/2018/04/12/jojo-ariose/
-featured_image: https://image.ingresscode.cn/2018/04/ARIOSE.jpg?x-oss-process=image/resize,m_fill,w_601,h_220
+featured_image: /static/2018/04/ARIOSE.jpg?x-oss-process=image/resize,m_fill,w_601,h_220
 views:
   - "287"
 categories:

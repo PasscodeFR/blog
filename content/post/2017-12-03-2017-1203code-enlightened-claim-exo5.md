@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-03T07:02:17+00:00
 url: /blog/2017/12/03/2017-1203code-enlightened-claim-exo5/
-featured_image: https://image.ingresscode.cn/2017/12/1203exo5enl.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/12/1203exo5enl.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "51"
 categories:

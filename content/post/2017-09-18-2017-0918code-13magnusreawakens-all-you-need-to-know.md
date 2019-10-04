@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-18T08:05:54+00:00
 url: /blog/2017/09/18/2017-0918code-13magnusreawakens-all-you-need-to-know/
-featured_image: https://image.ingresscode.cn/2017/09/Reawakens.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/Reawakens.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "37"
 categories:

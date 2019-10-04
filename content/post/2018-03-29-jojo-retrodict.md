@@ -4,7 +4,7 @@ author: ms300
 type: post
 date: 2018-03-28T16:15:18+00:00
 url: /blog/2018/03/29/jojo-retrodict/
-featured_image: https://image.ingresscode.cn/2018/03/jojo-6.png?x-oss-process=image/resize,m_fill,w_601,h_220
+featured_image: /static/2018/03/jojo-6.png?x-oss-process=image/resize,m_fill,w_601,h_220
 views:
   - "171"
 categories:

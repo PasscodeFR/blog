@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-12-15T03:12:32+00:00
 url: /blog/2017/12/15/2017-1215code-where-there-was-one/
-featured_image: https://image.ingresscode.cn/2017/12/12-16Many-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
+featured_image: /static/2017/12/12-16Many-470x260.jpg?x-oss-process=image/resize,m_fill,w_470,h_220
 views:
   - "73"
 categories:

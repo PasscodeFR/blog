@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-17T06:24:44+00:00
 url: /blog/2017/09/17/2017-0917code-misty-hannah-building-your-own-mind-palace/
-featured_image: https://image.ingresscode.cn/2017/09/0917Magic.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/0917Magic.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "35"
 categories:

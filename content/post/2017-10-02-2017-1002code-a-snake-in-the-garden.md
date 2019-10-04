@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-10-02T05:06:21+00:00
 url: /blog/2017/10/02/2017-1002code-a-snake-in-the-garden/
-featured_image: https://image.ingresscode.cn/2017/10/1002Snakes.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/10/1002Snakes.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "47"
 categories:

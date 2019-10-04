@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2018-01-29T14:53:39+00:00
 url: /blog/2018/01/29/2018-0129code-murder-at-the-nia-analyst-response-portal/
-featured_image: https://image.ingresscode.cn/2018/02/0129OmnilyticsAnalystPortal.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2018/02/0129OmnilyticsAnalystPortal.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "74"
 categories:

@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-11-26T06:50:22+00:00
 url: /blog/2017/11/26/2017-1126code-anomalous-event-report-part-one/
-featured_image: https://image.ingresscode.cn/2017/11/1126Omnilytics1.png?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/11/1126Omnilytics1.png?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "55"
 categories:

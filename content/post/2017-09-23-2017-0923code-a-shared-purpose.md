@@ -4,7 +4,7 @@ author: fukkix
 type: post
 date: 2017-09-23T03:38:15+00:00
 url: /blog/2017/09/23/2017-0923code-a-shared-purpose/
-featured_image: https://image.ingresscode.cn/2017/09/0923SharedPurpose.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
+featured_image: /static/2017/09/0923SharedPurpose.jpg?x-oss-process=image/resize,m_fill,w_700,h_220
 views:
   - "30"
 categories:

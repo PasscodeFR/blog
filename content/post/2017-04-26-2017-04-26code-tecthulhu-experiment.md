@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/06/tecthulhum-nc19-1-700x220.jpg
 views:
   - "32"
 cover:
-  - https://www.ingresscode.cn/wp-content/uploads/2017/06/tecthulhum-nc19-1.jpg
+  - /static/2017/06/tecthulhum-nc19-1.jpg
 categories:
   - BLOGcode
   - 已解决
