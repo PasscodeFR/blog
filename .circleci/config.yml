@@ -21,7 +21,8 @@ workflows:
   version: 2
   pipeline:
     jobs:
-      - hugo/build
+      - hugo/build:
+          html-proofer: false
       - deploy:
           filters:
             branches:
