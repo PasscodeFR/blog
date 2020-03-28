@@ -1,31 +1,32 @@
 version: 2.1
 
+orbs:
+  hugo: circleci/hugo@0.4.1
+
 jobs:
-  build:
-    branches:
-      only:
-        - master
+  deploy:
     docker:
-      - image: cibuilds/hugo:latest
-    working_directory: ~/hugo
+      - image: cibuilds/base:latest
     steps:
-      - run:
-          name: Check Hugo Version
-          command: echo "$(hugo version)"
-      - checkout
-      - run:
-          name: Pull Theme Submodules
-          command: |
-            git submodule init
-            git submodule update --remote
-      - run:
-          name: Build Blog Pages
-          command: |
-            HUGO_ENV=production hugo -v
-            cp public/index.xml public/feed.xml
+      - attach_workspace:
+          at: .
       - add_ssh_keys:
           fingerprints:
             - "3e:c7:02:39:cf:c9:af:19:f2:52:d4:ad:b3:a0:cb:20"
       - deploy:
           name: Deploy to GitHub Pages
           command: sh ./.circleci/deploy.sh
+
+workflows:
+  version: 2
+  pipeline:
+    jobs:
+      - hugo/build
+      - deploy:
+          filters:
+            branches:
+              only:
+                - master
+          requires:
+            - hugo/build
+
