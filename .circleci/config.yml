@@ -8,6 +8,7 @@ jobs:
     docker:
       - image: cibuilds/base:latest
     steps:
+      - checkout
       - attach_workspace:
           at: .
       - add_ssh_keys:
