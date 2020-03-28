@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Ingress Decode Group"
 theme = "capsule"
 hasCJKLanguage = true
-copyright = "&copy; 2018. All rights reserved."
+copyright = "&copy; 2020. All rights reserved."
 canonifyurls = true
 paginate = 15
 disqusShortname = "passcode"
@@ -17,21 +17,20 @@ staticDir = ["static"]
   tag = "tags"
   category = "categories"
 
-
 [params]
   # Shown in the home page
   subtitle = "Just a website"
   brand = "Blackburn"
   googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "Your Disqus shortname"
+  disqus = "passcode"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   highlightjs_extra_languages = ["yaml"]
   dateFormat = "02 Jan 2006, 15:04"
   # Include any custom CSS and/or JS files
   # (relative to /static folder)
-  custom_css = ["css/my.css"]
-  custom_js = ["js/my.js"]
+  # custom_css = ["css/my.css"]
+  # custom_js = ["js/my.js"]
 
   [params.piwikAnalytics]
     siteid = 2
@@ -70,9 +69,14 @@ staticDir = ["static"]
     identifier = "tools"
     url = "/tools/"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [social]
   # Link your social networking accounts to the side menu
   # by entering your username or ID.
 
   # Techie
-  github = "enldecode"
+  github = "PasscodeFR"
